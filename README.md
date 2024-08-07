@@ -55,9 +55,6 @@ O projeto foi implementado de acordo com as diretrizes abaixo:
    - Demonstração de funcionamento do sistema com exemplos de perguntas e respostas.
    - Relatório de avaliação da eficácia do sistema, incluindo exemplos de consultas e as respostas geradas.
 
-## Critérios de Avaliação
+## Link para sistema RAG e modelo no Hugging Face
 
-- **Completude e Precisão:** Qualidade do pré-processamento dos textos e integridade dos dados extraídos.
-- **Criatividade e Variedade:** Diversidade e relevância dos exemplos de perguntas e respostas gerados.
-- **Qualidade do Modelo:** Desempenho do modelo de linguagem treinado, avaliado por métricas apropriadas.
-- **Eficiência do Sistema de RAG:** Capacidade do sistema em recuperar trechos relevantes e gerar respostas precisas.
+https://huggingface.co/spaces/edbraga/ufam_legisbot
