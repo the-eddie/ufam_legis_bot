@@ -61,7 +61,7 @@ class WebCrawler:
                     href = link['href']
                     if any(href.lower().endswith(ext) for ext in allowed_extensions):
                         full_url = urljoin(url, href)
-                        file_links.append((link.text.strip(), full_url))
+                        file_links.append((link.text.strip(), unquote(full_url)))
 
             logging.info(f"Encontrados {len(file_links)} links de arquivos")
             return file_links
@@ -80,19 +80,20 @@ class WebCrawler:
         logging.info(f"Baixando arquivos em {download_folder}")
         os.makedirs(download_folder, exist_ok=True)
 
-        df = pd.DataFrame(columns=['Anchor Text', 'Link', 'File Name', 'Original File Name', 'MD5 Hash'])
+        df = pd.DataFrame(columns=['Anchor Text', 'Link', 'File Name', 'Original File Name', 'MD5 Hash', 'Removed File', 'Status'])
 
         for file_counter, (anchor_text, link) in enumerate(file_links, start=1):
             if link in df['Link'].values:
-                df = self._update_duplicate_link(df, link, anchor_text)
+                df = self._handle_duplicate_link(df, link, anchor_text)
                 continue
 
             file_content = self._download_with_retry(link)
             if file_content is None:
+                df = self._add_download_error(df, anchor_text, link)
                 logging.warning(f"Falha ao baixar {link} após {self.max_retries} tentativas. Pulando para o próximo arquivo.")
                 continue
 
-            original_file_name = os.path.basename(unquote(link))
+            original_file_name = os.path.basename(link)
             file_name = f"file_{file_counter:04d}.pdf"
             file_path = os.path.join(download_folder, file_name)
 
@@ -102,14 +103,13 @@ class WebCrawler:
             md5_hash = self._calculate_md5(file_path)
 
             if md5_hash in df['MD5 Hash'].values:
-                df = self._handle_duplicate_file(df, file_path, md5_hash, anchor_text, link)
+                df = self._handle_duplicate_file(df, file_path, md5_hash, anchor_text, link, original_file_name)
             else:
                 df = self._add_new_file_entry(df, anchor_text, link, file_name, original_file_name, md5_hash)
                 logging.info(f"Downloaded: {file_name}")
 
-        csv_path = os.path.join(download_folder, 'download_summary.csv')
-        df.to_csv(csv_path, index=False, encoding='utf-8')
-        logging.info(f"CSV salvo em {csv_path}")
+        df.to_csv(DOWNLOAD_SUMMARY_CSV_FILE, index=False, encoding='utf-8')
+        logging.info(f"CSV salvo em {DOWNLOAD_SUMMARY_CSV_FILE}")
 
     def _download_with_retry(self, url: str) -> bytes:
         """
@@ -134,9 +134,9 @@ class WebCrawler:
         return None
 
     @staticmethod
-    def _update_duplicate_link(df: pd.DataFrame, link: str, anchor_text: str) -> pd.DataFrame:
+    def _handle_duplicate_link(df: pd.DataFrame, link: str, anchor_text: str) -> pd.DataFrame:
         """
-        Atualiza a entrada para um link duplicado.
+        Adiciona uma entrada para um link duplicado.
 
         Args:
             df: O DataFrame contendo as informações dos arquivos.
@@ -146,16 +146,24 @@ class WebCrawler:
         Returns:
             O DataFrame atualizado.
         """
-        mask = df['Link'] == link
-        df.loc[mask, 'Anchor Text'] += f"; {anchor_text}"
-        df.loc[mask, 'Link'] += f"; {link}"
-        logging.info(f"Link duplicado atualizado: {link}")
+        existing_file = df[df['Link'] == link].iloc[0]
+        new_row = pd.DataFrame({
+            'Anchor Text': [anchor_text],
+            'Link': [link],
+            'File Name': [existing_file['File Name']],
+            'Original File Name': [''],
+            'MD5 Hash': [''],
+            'Removed File': [''],
+            'Status': ['Link duplicado']
+        })
+        df = pd.concat([df, new_row], ignore_index=True)
+        logging.info(f"Link duplicado adicionado: {link}")
         return df
 
     @staticmethod
-    def _handle_duplicate_file(df: pd.DataFrame, file_path: str, md5_hash: str, anchor_text: str, link: str) -> pd.DataFrame:
+    def _handle_duplicate_file(df: pd.DataFrame, file_path: str, md5_hash: str, anchor_text: str, link: str, original_file_name: str) -> pd.DataFrame:
         """
-        Assegura que arquivos duplicados são removidos.
+        Lida com arquivos duplicados, removendo-os e adicionando uma entrada no DataFrame.
 
         Args:
             df: O DataFrame contendo as informações dos arquivos.
@@ -163,14 +171,23 @@ class WebCrawler:
             md5_hash: O hash MD5 do arquivo duplicado.
             anchor_text: O texto âncora do link do arquivo duplicado.
             link: O link do arquivo duplicado.
+            original_file_name: O nome original do arquivo duplicado.
 
         Returns:
             O DataFrame atualizado.
         """
+        existing_file = df[df['MD5 Hash'] == md5_hash].iloc[0]
         os.remove(file_path)
-        mask = df['MD5 Hash'] == md5_hash
-        df.loc[mask, 'Anchor Text'] += f"; {anchor_text}"
-        df.loc[mask, 'Link'] += f"; {link}"
+        new_row = pd.DataFrame({
+            'Anchor Text': [anchor_text],
+            'Link': [link],
+            'File Name': [existing_file['File Name']],
+            'Original File Name': [original_file_name],
+            'MD5 Hash': [md5_hash],
+            'Removed File': [os.path.basename(file_path)],
+            'Status': ['Baixado e removido (MD5 duplicado)']
+        })
+        df = pd.concat([df, new_row], ignore_index=True)
         logging.info(f"Arquivo duplicado removido: {os.path.basename(file_path)}")
         return df
 
@@ -195,7 +212,33 @@ class WebCrawler:
             'Link': [link],
             'File Name': [file_name],
             'Original File Name': [original_file_name],
-            'MD5 Hash': [md5_hash]
+            'MD5 Hash': [md5_hash],
+            'Removed File': [''],
+            'Status': ['Baixado']
+        })
+        return pd.concat([df, new_row], ignore_index=True)
+
+    @staticmethod
+    def _add_download_error(df: pd.DataFrame, anchor_text: str, link: str) -> pd.DataFrame:
+        """
+        Adiciona uma entrada para um arquivo que não pôde ser baixado devido a um erro.
+
+        Args:
+            df: O DataFrame contendo as informações dos arquivos.
+            anchor_text: O texto âncora do link do arquivo.
+            link: O link do arquivo.
+
+        Returns:
+            O DataFrame atualizado com a nova entrada.
+        """
+        new_row = pd.DataFrame({
+            'Anchor Text': [anchor_text],
+            'Link': [link],
+            'File Name': [''],
+            'Original File Name': [''],
+            'MD5 Hash': [''],
+            'Removed File': [''],
+            'Status': ['Erro no download']
         })
         return pd.concat([df, new_row], ignore_index=True)
 
@@ -244,7 +287,7 @@ def main() -> None:
             source_link=SOURCE_LINK,
             query_selector=QUERY_SELECTOR,
             file_extensions=FILE_EXTENSIONS,
-            download_folder=INPUT_FOLDER
+            download_folder=CRAWLING_FOLDER
         )
     except Exception as e:
         logging.error(f"Ocorreu um erro durante o crawling: {str(e)}")
