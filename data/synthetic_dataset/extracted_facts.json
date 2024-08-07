@@ -1,0 +1,2054 @@
+{
+  "file_0001.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução Nº 038/2015 regulamenta a aceleração de estudos prevista no art. 71 do Regimento Geral da Universidade Federal do Amazonas.",
+        "context": "Preâmbulo da Resolução Nº 038/2015."
+      },
+      {
+        "statement": "O estudante regularmente matriculado na UFAM pode abreviar a duração do curso presencial via aceleração dos estudos, conforme as disposições do Regulamento.",
+        "context": "Artigo 1º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "A aceleração de estudos poderá ser autorizada para todos os componentes curriculares do projeto pedagógico de cada Curso de Graduação, exceto aqueles que o Colegiado de Curso justificar como não passíveis de aceleração.",
+        "context": "Artigo 2º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "O aluno deverá comprovar extraordinário aproveitamento de estudos através de exames específicos realizados perante uma Banca Examinadora Especial.",
+        "context": "Artigo 3º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "Extraordinário aproveitamento de estudos é reconhecido quando o aluno demonstra ter assimilado o aprendizado e adquirido as competências exigidas no Projeto Pedagógico do curso que pretende abreviar.",
+        "context": "Parágrafo Único do Artigo 3º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "O aluno interessado na aceleração de estudos deve requerer a instauração do processo por meio de um pedido circunstanciado na Coordenação do respectivo Curso de Graduação.",
+        "context": "Artigo 4º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "Os documentos necessários ao pedido de aceleração incluem: Histórico Escolar Analítico atualizado, cópia do RG e do CPF, justificativa da solicitação e procuração específica, se estiver representado por terceiros.",
+        "context": "Parágrafo Único do Artigo 4º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "Um aluno que solicitar a aceleração não pode estar em processo de jubilamento.",
+        "context": "Artigo 5º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "A Banca Examinadora Especial será composta por três professores indicados pelo Coordenador de Curso e nomeados pelo Diretor da Unidade à qual o Curso está vinculado.",
+        "context": "Artigo 8º do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "A avaliação incluirá todo o conteúdo programático da disciplina objeto da aceleração.",
+        "context": "Artigo 11 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "Para ser considerado aprovado no processo de aceleração, o aluno deve alcançar, no mínimo, a nota final 9 (nove).",
+        "context": "§1º do Artigo 12 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "O aluno reprovado não pode se candidatar a uma nova avaliação para fins de aceleração de estudos na mesma disciplina.",
+        "context": "§2º do Artigo 12 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "O aluno que obtiver êxito na aceleração de estudos terá a expressão \"Extraordinário Aproveitamento\" consignada em seu Histórico Escolar.",
+        "context": "§1º do Artigo 14 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "O aluno pode interpor recurso contra a decisão do Coordenador de Curso que negou o pedido de aceleração de estudos, a composição da Banca Examinadora Especial e o resultado final.",
+        "context": "Artigo 15 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "O processo de aceleração de estudos deve ser encerrado no prazo máximo de 60 dias.",
+        "context": "Artigo 16 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "Os casos omissos no Regulamento serão resolvidos pela Câmara de Ensino de Graduação, observada a legislação vigente.",
+        "context": "Artigo 17 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      },
+      {
+        "statement": "Este Regulamento é parte indissociável da Resolução e entra em vigor na data de publicação, revogadas as disposições em contrário.",
+        "context": "Artigo 18 do Anexo I do Regulamento do Processo de Aceleração de Estudos."
+      }
+    ]
+  },
+  "file_0002.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução 026/2007 proíbe a inclusão informal de alunos da graduação em disciplinas/turmas na Universidade Federal do Amazonas.",
+        "context": "Artigo 1º da Resolução 026/2007."
+      },
+      {
+        "statement": "É nula qualquer inclusão, trabalho acadêmico ou exercício escolar realizado por alunos que não estejam oficialmente matriculados, desrespeitando os procedimentos e prazos formais de matrícula.",
+        "context": "Artigo 1º da Resolução 026/2007."
+      },
+      {
+        "statement": "Alunos que tiverem recurso interposto, devido a erro institucional, são exceção à proibição, podendo apenas frequentar as aulas enquanto o recurso não for julgado.",
+        "context": "Parágrafo 1º do Artigo 1º da Resolução 026/2007."
+      },
+      {
+        "statement": "Se a matrícula for confirmada após o recurso, é garantida ao aluno a realização excepcional de segunda chamada dos exercícios escolares realizados antes da efetivação da matrícula.",
+        "context": "Parágrafo 2º do Artigo 1º da Resolução 026/2007."
+      },
+      {
+        "statement": "A Resolução 026/2007 entra em vigor na data de sua publicação, que foi em 1º de Agosto de 2007.",
+        "context": "Artigo 2º da Resolução 026/2007."
+      },
+      {
+        "statement": "A prática informal de permitir e registrar a frequência e avaliações de alunos não matriculados foi considerada inadequada pela Câmara de Ensino de Graduação.",
+        "context": "Considerando da Resolução 026/2007."
+      },
+      {
+        "statement": "Não existe na legislação da Universidade Federal do Amazonas a categoria de aluno-ouvinte.",
+        "context": "Considerando da Resolução 026/2007."
+      },
+      {
+        "statement": "A competência funcional da Câmara de Ensino de Graduação é mencionada no Artigo 16, § 2º, do Estatuto e no artigo 9º do Regimento Geral da UFAM.",
+        "context": "Considerando da Resolução 026/2007."
+      }
+    ]
+  },
+  "file_0003.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução Nº 015/2018 regulamenta o Programa de Prestação de Trabalho Voluntário na Universidade Federal do Amazonas (UFAM).",
+        "context": "Introdução e Art. 1º da Resolução."
+      },
+      {
+        "statement": "O trabalho voluntário é considerado como atividades não remuneradas, prestadas à UFAM, por pessoas físicas maiores, capazes e devidamente habilitadas.",
+        "context": "Art. 2º da Resolução."
+      },
+      {
+        "statement": "O trabalho voluntário não gera vínculo empregatício, nem obrigação de natureza trabalhista ou previdenciária.",
+        "context": "Art. 3º da Resolução."
+      },
+      {
+        "statement": "O trabalho voluntário deve ser exercido mediante aprovação do Plano de Trabalho e assinatura do Termo de Adesão.",
+        "context": "Art. 4º da Resolução."
+      },
+      {
+        "statement": "Os voluntários devem apresentar um Plano de Trabalho composto por currículo, proposta de trabalho, declaração de disponibilidade de um ano, e termo de adesão.",
+        "context": "Art. 5º da Resolução."
+      },
+      {
+        "statement": "O Termo de Adesão tem duração de um ano, podendo ser renovado por mais um ano, conforme interesse da UFAM.",
+        "context": "Art. 6º da Resolução."
+      },
+      {
+        "statement": "O Termo de Adesão pode ser rescindido por iniciativa do voluntário, por decisão do superior hierárquico, ou por motivo de força maior.",
+        "context": "Art. 7º da Resolução."
+      },
+      {
+        "statement": "A tramitação do credenciamento para atuação em serviços técnicos administrativos deve seguir procedimentos específicos, como a formalização de requerimento ao superior hierárquico e aprovação pela Pró-Reitoria de Gestão de Pessoas.",
+        "context": "Art. 8º da Resolução."
+      },
+      {
+        "statement": "A atividade de docência por voluntários não pode exceder 20% do quadro efetivo de professores na UFAM.",
+        "context": "Art. 15 da Resolução."
+      },
+      {
+        "statement": "Toda produção resultante do trabalho voluntário obedecerá às políticas de inovação tecnológica e propriedade intelectual vigentes na UFAM.",
+        "context": "Art. 16 da Resolução."
+      },
+      {
+        "statement": "Os casos omissos serão resolvidos pelo Conselho de Administração (C0NSAD).",
+        "context": "Art. 18 da Resolução."
+      },
+      {
+        "statement": "Durante a vigência do Termo de Adesão, os voluntários devem cumprir todas as normas institucionais da UFAM.",
+        "context": "Art. 12 da Resolução."
+      },
+      {
+        "statement": "Os voluntários não podem exercer cargos de direção ou funções de confiança privativas de servidores da UFAM.",
+        "context": "Art. 14 da Resolução."
+      },
+      {
+        "statement": "O Reitor fornecerá um Certificado de Participação no Programa de Trabalho Voluntário ao término das atividades.",
+        "context": "Art. 10 da Resolução."
+      }
+    ]
+  },
+  "file_0004.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução 070/2011 altera e consolida a Resolução nº 036/2011, que disciplina as normas internas relacionadas ao processo de avaliação de afinidade de cursos de graduação e sequenciais na Universidade Federal do Amazonas.",
+        "context": "Introdução da Resolução 070/2011"
+      },
+      {
+        "statement": "Considera-se haver afinidade entre o curso de origem e o de destinação quando ambos demonstrarem, em relação a outros, maior semelhança curricular nas formações geral, básica e profissional, agrupados na mesma área de conhecimento: Exatas, Agrárias, Biológicas e Humanas.",
+        "context": "Artigo 1º da Resolução 070/2011"
+      },
+      {
+        "statement": "A afinidade de curso deverá ser solicitada junto à Pró-Reitoria de Ensino de Graduação no mesmo requerimento e no ato do pedido da transferência ex officio.",
+        "context": "Artigo 2º da Resolução 070/2011"
+      },
+      {
+        "statement": "Somente poderão requerer afinidade de curso os alunos em processo de transferência ex officio, egressos de Instituições Públicas de Ensino Superior, desde que o curso de origem não esteja sendo oferecido em nenhuma Instituição Pública de Ensino Superior desta cidade na época da transferência.",
+        "context": "Artigo 3º da Resolução 070/2011"
+      },
+      {
+        "statement": "O pedido de transferência ex officio será examinado pelo Departamento de Legislação e Normas (DLN), que avaliará o preenchimento dos requisitos necessários.",
+        "context": "Artigo 4º da Resolução 070/2011"
+      },
+      {
+        "statement": "Se não atendidos os requisitos da transferência ex officio, a solicitação será encaminhada com parecer denegatório do DLN à consideração do (a) Pró-Reitor (a) de Ensino de Graduação.",
+        "context": "Parágrafo 1º do Artigo 4º da Resolução 070/2011"
+      },
+      {
+        "statement": "Após a análise, se atendidos os requisitos, o processo será encaminhado ao Departamento de Apoio ao Ensino (DAE) para emitir informação técnica sobre a afinidade do curso quando pertinente.",
+        "context": "Parágrafo 3º do Artigo 4º da Resolução 070/2011"
+      },
+      {
+        "statement": "Em nenhuma hipótese será permitido ao requerente optar por outro curso que não aquele considerado afim com o curso de origem.",
+        "context": "Parágrafo 5º do Artigo 4º da Resolução 070/2011"
+      },
+      {
+        "statement": "O Departamento de Legislação e Normas emitirá parecer sobre a afinidade indicada, que será encaminhado ao (à) Pró-Reitor (a) de Ensino de Graduação para decisão.",
+        "context": "Artigo 5º da Resolução 070/2011"
+      },
+      {
+        "statement": "Os casos omissos relativos à Resolução 070/2011 serão resolvidos pela Câmara de Ensino de Graduação.",
+        "context": "Artigo 6º da Resolução 070/2011"
+      },
+      {
+        "statement": "A Resolução 070/2011 entra em vigor na data de sua publicação, revogadas as disposições em contrário.",
+        "context": "Artigo 7º da Resolução 070/2011"
+      }
+    ]
+  },
+  "file_0005.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 030/2015 regulamenta o processo de exclusão de discente (jubilação) do cadastro discente da Universidade Federal do Amazonas.",
+        "context": "Introdução da Resolução"
+      },
+      {
+        "statement": "A exclusão do discente ocorrerá quando ultrapassar o tempo máximo para integralização do curso, conforme especificado no projeto pedagógico.",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "O discente também será excluído se não efetivar matrícula por mais de quatro semestres consecutivos ou não.",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "A Resolução não se aplica à exclusão do discente em virtude de sanção disciplinar, que possui procedimento próprio.",
+        "context": "Parágrafo único do Art. 2º"
+      },
+      {
+        "statement": "O processo de jubilação será iniciado mediante ação conjunta da Pró-Reitoria de Ensino de Graduação (PROEG) e do Centro de Tecnologia da Informação e Comunicação (CTIC).",
+        "context": "Art. 3º"
+      },
+      {
+        "statement": "Após o período letivo, o CTIC fornecerá à PROEG uma relação com os nomes dos discentes que infringiram as normas do Art. 2º.",
+        "context": "Art. 4º"
+      },
+      {
+        "statement": "Os prazos da Resolução serão contínuos e excluem o dia do início, incluindo o dia do vencimento.",
+        "context": "Art. 5º"
+      },
+      {
+        "statement": "Os meios de notificação do discente incluem notificação pessoal, por via postal ou por meio eletrônico, com prova de recebimento.",
+        "context": "Art. 6º"
+      },
+      {
+        "statement": "Caso falhe um dos meios de notificação, será publicado um edital na página eletrônica da UFAM e/ou da PROEG e em jornal de grande circulação local.",
+        "context": "§ 1º do Art. 6º"
+      },
+      {
+        "statement": "O discente terá 30 dias após a ciência da notificação para apresentar defesa escrita à PROEG.",
+        "context": "Art. 10"
+      },
+      {
+        "statement": "As defesas deferidas serão registradas no histórico escolar do discente, indicando o período concedido para a conclusão do curso.",
+        "context": "Art. 15"
+      },
+      {
+        "statement": "O prazo para interposição de recurso administrativo contra a decisão da Comissão é de 10 dias, contados da data de publicação do resultado.",
+        "context": "Art. 17"
+      },
+      {
+        "statement": "Os recursos administrativos não terão efeitos suspensivos, exceto se houver justo receio de prejuízo, caso a autoridade dê efeito suspensivo ao recurso.",
+        "context": "Art. 20"
+      },
+      {
+        "statement": "No ato da matrícula institucional, o discente deve subscrever um termo de conhecimento do prazo de conclusão do curso.",
+        "context": "Art. 22"
+      },
+      {
+        "statement": "É dever do discente manter seu cadastro atualizado, e deve informar quaisquer alterações à Instituição via portal do discente.",
+        "context": "Art. 23"
+      },
+      {
+        "statement": "Os casos omissos e não disciplinados na Resolução serão decididos pela Câmara de Ensino de Graduação.",
+        "context": "Art. 24"
+      },
+      {
+        "statement": "A Resolução entrará em vigor na data de sua publicação.",
+        "context": "Art. 25"
+      }
+    ]
+  },
+  "file_0006.pdf": {
+    "facts": [
+      {
+        "statement": "Fica proibido o trote na UFAM.",
+        "context": "Artigo 1º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "Entende-se por trote qualquer manifestação promovida contra acadêmico na universidade que atente contra sua integridade física, moral e/ou psicológica, representando coação, humilhação, discriminação, intolerância, extorsão ou risco potencial para os acadêmicos ou outros membros da comunidade universitária.",
+        "context": "Parágrafo Único - Artigo 1º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "À prática do trote descrita no Artigo 1º, o infrator está sujeito a sanções, previstas no Regimento Geral da UFAM, independentemente das sanções penais e civis previstas na legislação pertinente.",
+        "context": "Artigo 2º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "Cada Unidade Acadêmica ficará responsável pela recepção e integração dos acadêmicos ingressantes à Universidade, com a participação dos três segmentos da comunidade acadêmica.",
+        "context": "Artigo 3º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "O consentimento do acadêmico à prática de qualquer ato proibido pela presente resolução não exime de responsabilização os participantes do trote.",
+        "context": "Artigo 4º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "Deve ser dada ampla publicidade a esta Resolução.",
+        "context": "Artigo 5º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "Esta Resolução entra em vigor na data de sua aprovação.",
+        "context": "Artigo 6º - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "A recepção aos acadêmicos ingressantes deve pautar-se pela observância às normas da boa convivência acadêmica, evitando-se experiências traumáticas comprometedoras.",
+        "context": "Considerações iniciais - Resolução N.º 006/2016 - CONSUNI"
+      },
+      {
+        "statement": "A convivência acadêmica pressupõe cordialidade, fraternidade e respeito mútuo entre os membros da comunidade universitária.",
+        "context": "Considerações iniciais - Resolução N.º 006/2016 - CONSUNI"
+      }
+    ]
+  },
+  "file_0007.pdf": {
+    "facts": [
+      {
+        "statement": "Os cursos de graduação da Universidade Federal do Amazonas (UFAM) devem obedecer às diretrizes dos Projetos Pedagógicos e à legislação pertinente.",
+        "context": "Artigo 1º - Disposições Preliminares"
+      },
+      {
+        "statement": "O regime de créditos para os cursos de graduação é semestral, com 1 crédito teórico correspondendo a 15 horas-aula e 1 crédito prático correspondendo a 30 horas-aula.",
+        "context": "Artigo 2º - Disposições Preliminares"
+      },
+      {
+        "statement": "Cada período letivo na UFAM é composto por 100 dias de trabalho escolar efetivo, excluindo o tempo reservado para avaliações finais.",
+        "context": "Artigo 3º - Disposições Preliminares"
+      },
+      {
+        "statement": "Os cursos devem funcionar de acordo com os turnos especificados nos Projetos Pedagógicos, respeitando um máximo de 8 horas diárias e um intervalo mínimo de 2 horas entre as aulas.",
+        "context": "Artigo 4º - Disposições Preliminares"
+      },
+      {
+        "statement": "O Plano de Ensino deve conter a identificação da disciplina, nome, requisitos, turma, horário, e carga horária total, além de uma ementa conforme exigências do Ministério da Educação.",
+        "context": "Artigo 6º - Do Plano de Ensino"
+      },
+      {
+        "statement": "Um discente é considerado aprovado se obtiver uma Média Final igual ou superior a 5,0 e tiver no mínimo 75% de frequência.",
+        "context": "Artigo 9º - Do Plano de Ensino"
+      },
+      {
+        "statement": "Um discente que obtiver a Média dos Exercícios Escolares (MEE) igual ou superior a 8,0, com 75% de frequência, será dispensado da prova final, podendo optar por realizá-la.",
+        "context": "Artigo 10 - Do Plano de Ensino"
+      },
+      {
+        "statement": "No caso da ausência do docente, ele deve reprogramar a atividade em comum acordo com os discentes ou ser substituído por outro docente do quadro, com autorização.",
+        "context": "Artigo 11 - Das Atividades Docentes"
+      },
+      {
+        "statement": "Um discente pode justificar sua ausência nas atividades acadêmicas por várias razões, incluindo doença, luto, compromisso militar, entre outros, desde que comprovadas por documentação adequada.",
+        "context": "Artigo 12 - Da Justificativa de Ausência"
+      },
+      {
+        "statement": "O requerimento para justificativa de ausência deve ser protocolado pelo discente ao Coordenador de Curso em até 5 dias úteis após a atividade a ser justificada.",
+        "context": "Artigo 13 - Da Justificativa de Ausência"
+      }
+    ]
+  },
+  "file_0008.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 021/2007 regulamenta o parágrafo único do Artigo 70 do Regimento Geral da UFAM, estabelecendo normas para o Aproveitamento de Estudos.",
+        "context": "Artigo 1º da Resolução nº 021/2007."
+      },
+      {
+        "statement": "O Aproveitamento de Estudos refere-se ao processo de aceitação pela UFAM de estudos realizados em cursos de graduação autorizados ou reconhecidos pelo Ministério da Educação ou oriundos de instituições estrangeiras.",
+        "context": "Parágrafo Único do Artigo 1º da Resolução nº 021/2007."
+      },
+      {
+        "statement": "O Aproveitamento de Estudos se baseia em três critérios: Densidade, Qualidade e Adequação.",
+        "context": "Artigo 2º da Resolução nº 021/2007."
+      },
+      {
+        "statement": "É responsabilidade exclusiva da Coordenação de Curso aplicar os critérios de Densidade, Qualidade e Adequação para o Aproveitamento de Estudos.",
+        "context": "Artigo 4º da Resolução nº 021/2007."
+      },
+      {
+        "statement": "Disciplinas obrigatórias cursadas na UFAM que apresentem identidade de código poderão ser aproveitadas em outros cursos da Instituição pelo processo de Transferência de Realização (TF).",
+        "context": "Artigo 8º da Resolução nº 021/2007."
+      },
+      {
+        "statement": "O limite máximo de carga horária optativa a ser aproveitada é de 25% do total de carga horária exigida para a integralização do curso, exceto se o limite mínimo fixado para o curso for maior.",
+        "context": "§5º do Artigo 9º da Resolução nº 021/2007."
+      },
+      {
+        "statement": "Atividades institucionais como PIBIC, PET, Monitoria, Programas e Projetos de Extensão e Pesquisa podem ser objeto de Aproveitamento de Estudos como carga horária optativa, com um máximo de 50% da carga horária mínima definida.",
+        "context": "Artigos 10 e seus parágrafos da Resolução nº 021/2007."
+      },
+      {
+        "statement": "O pedido de Aproveitamento de Estudos será indeferido se a documentação apresentada for ilegível ou incompleta.",
+        "context": "Artigo 12 da Resolução nº 021/2007."
+      },
+      {
+        "statement": "Disciplinas cursadas concomitantemente em outra instituição não são passíveis de aproveitamento, exceto quando houver acordo institucional.",
+        "context": "Artigo 11 da Resolução nº 021/2007."
+      },
+      {
+        "statement": "As disposições do processo de Aproveitamento de Estudos realizados no exterior seguem as diretrizes estabelecidas na presente resolução e na Legislação Federal pertinente.",
+        "context": "Artigo 13 da Resolução nº 021/2007."
+      },
+      {
+        "statement": "Esta Resolução entrará em vigor na data de sua publicação, revogando resoluções anteriores sobre Aproveitamento de Estudos.",
+        "context": "Artigo 15 da Resolução nº 021/2007."
+      }
+    ]
+  },
+  "file_0009.pdf": {
+    "facts": [
+      {
+        "statement": "As atividades realizadas no Programa de Residência Pedagógica serão aproveitadas para o Estágio Obrigatório dos cursos de licenciatura da UFAM.",
+        "context": "Art. 1º da Portaria Nº 5, de 08 de janeiro de 2020."
+      },
+      {
+        "statement": "Para ter direito ao aproveitamento das atividades, o discente deve ter cumprido a carga horária de 440 horas exigida conforme especificado no Edital nº 06/2018 - CAPES.",
+        "context": "Parágrafo único do Art. 1º da Portaria Nº 5, de 08 de janeiro de 2020."
+      },
+      {
+        "statement": "O pedido de aproveitamento das atividades deve ser solicitado exclusivamente por meio do Portal E-campus.",
+        "context": "Art. 2º da Portaria Nº 5, de 08 de janeiro de 2020."
+      },
+      {
+        "statement": "O discente deve anexar a certificação de conclusão do Programa de Residência Pedagógica ao solicitar o aproveitamento das atividades.",
+        "context": "Art. 2º da Portaria Nº 5, de 08 de janeiro de 2020."
+      },
+      {
+        "statement": "A Portaria Nº 5, de 08 de janeiro de 2020, entra em vigor na data de sua publicação.",
+        "context": "Art. 3º da Portaria Nº 5, de 08 de janeiro de 2020."
+      },
+      {
+        "statement": "O documento foi assinado eletronicamente por Luiz Simão Botelho Neves, Pró-Reitor em exercício, em 08/01/2020.",
+        "context": "Informação final da Portaria Nº 5, de 08 de janeiro de 2020."
+      },
+      {
+        "statement": "A autenticidade do documento pode ser conferida no site oficial da UFAM informando o código verificador 0091176 e o código CRC EB316CFD.",
+        "context": "Conclusão da Portaria Nº 5, de 08 de janeiro de 2020."
+      }
+    ]
+  },
+  "file_0010.pdf": {
+    "facts": [
+      {
+        "statement": "O Programa de Mobilidade Estudantil (PROMES) foi criado na Universidade Federal do Amazonas (UFAM) para permitir que alunos vinculados a Instituições Federais de Ensino Superior (IFES) realizem temporariamente disciplinas de seu curso de graduação em outra IFES.",
+        "context": "Art. 1º - Disposições Gerais"
+      },
+      {
+        "statement": "O PROMES na UFAM será coordenado conjuntamente pelas Coordenações dos cursos de graduação, o Departamento de Registro Acadêmico (DRA/PROEG) e o Departamento de Relações Interinstitucionais (DRI/PROPESP).",
+        "context": "Art. 2º - Disposições Gerais"
+      },
+      {
+        "statement": "Será considerado Aluno Visitante aquele que, mantendo seu vínculo com a instituição de origem, participa do PROMES com autorização de ambas as instituições envolvidas.",
+        "context": "Art. 3º - Disposições Gerais"
+      },
+      {
+        "statement": "Os alunos que desejam se candidatar ao PROMES devem ter completado com aprovação todas as disciplinas do primeiro ano letivo, não ter mais de uma reprovação por período letivo cursado, apresentar coeficiente de rendimento acadêmico igual ou superior a 5,0 e estar matriculados em disciplinas no semestre da solicitação de ingresso ao PROMES.",
+        "context": "Art. 4º - Elegibilidade"
+      },
+      {
+        "statement": "O requerimento para ingresso no PROMES deve ser protocolado no DRI/PROPESP, anexando a documentação pertinente, que varia de acordo com a origem do aluno.",
+        "context": "Art. 5º - Tramitação do Processo e dos Documentos"
+      },
+      {
+        "statement": "Compete ao Departamento de Registro Acadêmico/PROEG verificar a possibilidade de matrícula nas disciplinas pretendidas pelo aluno interessado e emitir histórico escolar comprobatório ao final da permanência do aluno.",
+        "context": "Art. 6º - Competências"
+      },
+      {
+        "statement": "A Coordenação do Curso deve informar sobre o número de vagas por curso e semestre letivo para alunos de outras IFES interessados em participar do Programa.",
+        "context": "Art. 8º - Competências"
+      },
+      {
+        "statement": "O prazo para que um estudante permaneça como Aluno Visitante será de até um ano letivo, podendo ser prorrogado excepcionalmente por mais um semestre letivo, mediante autorização de ambas as instituições.",
+        "context": "Art. 10 - Do Prazo"
+      },
+      {
+        "statement": "Ao término do período de vínculo temporário, o aluno beneficiado terá sua nota disponibilizada somente após apresentação do 'nada consta' da Biblioteca Central.",
+        "context": "Art. 14 - Disposições Finais"
+      },
+      {
+        "statement": "A UFAM, enquanto instituição receptora, não será responsável por despesas de manutenção do aluno participante do PROMES, incluindo deslocamento, alimentação, moradia e atendimento médico e hospitalar.",
+        "context": "Art. 15 - Disposições Finais"
+      },
+      {
+        "statement": "É vedado ao aluno participante do PROMES realizar estágio curricular de seu curso na Instituição receptora.",
+        "context": "Art. 46 - Disposições Finais"
+      },
+      {
+        "statement": "Os casos omissos serão resolvidos pela Pró-Reitoria de Ensino de Graduação/Pró-Reitoria de Pesquisa e Pós-Graduação.",
+        "context": "Art. 19 - Disposições Finais"
+      },
+      {
+        "statement": "A portaria que regulamenta o Programa de Mobilidade Estudantil entrará em vigor na data de sua publicação.",
+        "context": "Art. 20 - Disposições Finais"
+      }
+    ]
+  },
+  "file_0011.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 018/2007 regulamenta as Atividades Complementares dos Cursos de Graduação da Universidade Federal do Amazonas.",
+        "context": "Introdução da Resolução nº 018/2007."
+      },
+      {
+        "statement": "Atividades Complementares são obrigatórias para a integralização dos currículos plenos dos Cursos de Graduação da UFAM.",
+        "context": "Artigo 1º da Resolução."
+      },
+      {
+        "statement": "Foi aprovado o regulamento das Atividades Complementares, que é parte integrante da Resolução.",
+        "context": "Artigo 2º da Resolução."
+      },
+      {
+        "statement": "A Resolução nº 018/2007 entra em vigor na data de sua publicação, revogando a Portaria 051/2007 - PROEG, de 29 de junho de 2007.",
+        "context": "Artigo 3º da Resolução."
+      },
+      {
+        "statement": "As Atividades Complementares são aquelas relacionadas com o ensino, pesquisa e extensão, validadas pela Coordenação do Curso.",
+        "context": "Artigo 1º do Anexo da Resolução."
+      },
+      {
+        "statement": "As Atividades Complementares devem ser avaliadas pela Comissão de Avaliação, composta por até quatro professores do curso, nomeados pelo Colegiado.",
+        "context": "Artigo 2º do Anexo da Resolução."
+      },
+      {
+        "statement": "As Atividades Complementares de Ensino incluem ministrar cursos de extensão, monitoria, participação em eventos acadêmicos e estágios não obrigatórios.",
+        "context": "Artigo 3º do Anexo da Resolução."
+      },
+      {
+        "statement": "As atividades de pesquisa e produção científica incluem participação em projetos de pesquisa, publicação de artigos e apresentação de trabalhos em eventos.",
+        "context": "Artigo 4º do Anexo da Resolução."
+      },
+      {
+        "statement": "As atividades de extensão incluem participação em congressos, cursos de extensão e comissões organizadoras de eventos científicos.",
+        "context": "Artigo 5º do Anexo da Resolução."
+      },
+      {
+        "statement": "O aproveitamento das Atividades Complementares deve ser solicitado mediante documento comprobatório, podendo ser validadas somente após a matrícula do aluno no curso.",
+        "context": "Artigo 6º do Anexo da Resolução."
+      },
+      {
+        "statement": "As atividades complementares devem ser realizadas em horário distinto das aulas regulares do curso de graduação.",
+        "context": "Artigo 6º, § 2º do Anexo da Resolução."
+      },
+      {
+        "statement": "O lançamento das Atividades Complementares no Sistema de Controle Acadêmico será realizado pelo Coordenador de Curso, para registro no histórico do aluno.",
+        "context": "Artigo 7º do Anexo da Resolução."
+      },
+      {
+        "statement": "O Projeto Pedagógico de cada Curso deverá incluir a normatização das Atividades Complementares.",
+        "context": "Artigo 8º do Anexo da Resolução."
+      },
+      {
+        "statement": "As atividades registradas como complementares não poderão ser aproveitadas como carga horária optativa.",
+        "context": "Artigo 9º do Anexo da Resolução."
+      },
+      {
+        "statement": "Casos omissos serão resolvidos pela Coordenação do Curso.",
+        "context": "Artigo 10 do Anexo da Resolução."
+      }
+    ]
+  },
+  "file_0012.pdf": {
+    "facts": [
+      {
+        "statement": "O Programa de Monitoria na Universidade Federal do Amazonas é regulamentado pela Resolução nº 006/2013.",
+        "context": "Introdução e abertura da Resolução."
+      },
+      {
+        "statement": "O Programa de Monitoria visa iniciar e estimular a participação de alunos de graduação nas atividades docentes de nível superior.",
+        "context": "Artigo 1º da Resolução."
+      },
+      {
+        "statement": "As atividades do Programa de Monitoria não geram vínculo empregatício com a instituição.",
+        "context": "Parágrafo Único do Artigo 1º da Resolução."
+      },
+      {
+        "statement": "O Programa de Monitoria possui duas modalidades: bo1sista e não bo1sista, ambas sujeitas às normas estabelecidas na Resolução.",
+        "context": "Artigo 2º da Resolução."
+      },
+      {
+        "statement": "O valor da bolsa mensal será estabelecido de acordo com a disponibilidade orçamentária e financeira da UFAM.",
+        "context": "Artigo 2º, §1º da Resolução."
+      },
+      {
+        "statement": "É vedada a acumulação da bolsa de monitoria com qualquer outra modalidade de bolsa da UFAM.",
+        "context": "Artigo 2º, §2º da Resolução."
+      },
+      {
+        "statement": "A função de monitor pode ser exercida por alunos regularmente matriculados em cursos de graduação e que sejam classificados em processo seletivo.",
+        "context": "Artigo 3º da Resolução."
+      },
+      {
+        "statement": "A seleção dos alunos para a monitoria é de responsabilidade dos professores que requisitarem monitores para as disciplinas ministradas.",
+        "context": "Artigo 3º, §1º da Resolução."
+      },
+      {
+        "statement": "Cada aluno pode assumir a monitoria de até duas turmas da mesma disciplina por período letivo, com um máximo de 12 horas semanais de atividades.",
+        "context": "Artigo 3º, §3º da Resolução."
+      },
+      {
+        "statement": "Os alunos podem exercer a monitoria por no máximo 4 períodos letivos em uma mesma disciplina ou em disciplinas diferentes.",
+        "context": "Artigo 3º, §5º da Resolução."
+      },
+      {
+        "statement": "A coordenação do Programa de Monitoria é de responsabilidade da Comissão de Monitoria, que é designada pelo Pró-Reitor de Ensino de Graduação.",
+        "context": "Artigo 4º da Resolução."
+      },
+      {
+        "statement": "O Plano Semestral de Monitoria e o Relatório Anual de Monitoria devem ser aprovados pelos colegiados de seus respectivos setores e encaminhados à Pró-Reitoria de Ensino de Graduação.",
+        "context": "Artigo 5º da Resolução."
+      },
+      {
+        "statement": "Os monitores devem preencher o Cadastro Individual de Monitor e anexar documentos como a confirmação de matrícula e histórico escolar atualizado.",
+        "context": "Artigo 7º da Resolução."
+      },
+      {
+        "statement": "Os alunos monitores devem cumprir um mínimo de 75% de frequência, ou 144 horas, por período letivo para receber o certificado de monitoria.",
+        "context": "Artigo 12, Parágrafo Único da Resolução."
+      },
+      {
+        "statement": "Esta Resolução entra em vigor na data de sua publicação e revoga a Portaria GR nº 530, de 16 de março de 2007.",
+        "context": "Artigo 14 da Resolução."
+      }
+    ]
+  },
+  "file_0013.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 044/2015 estabelece bonificações para candidatos aos cursos de graduação da UFAM que tenham cursado integralmente o ensino médio em instituições de ensino situadas no Estado do Amazonas.",
+        "context": "Preâmbulo e Artigo 1º"
+      },
+      {
+        "statement": "Os candidatos que tenham cursado integralmente o ensino médio em instituições de ensino situadas no Estado do Amazonas têm direito a uma Bonificação Estadual (BE) às notas obtidas no ENEM a cada ano.",
+        "context": "Artigo 1º, § 1º"
+      },
+      {
+        "statement": "Os candidatos que tenham cursado integralmente o ensino médio em instituições de ensino situadas em municípios do interior do Amazonas têm direito ao acréscimo de uma Bonificação para o Interior (B1) nas notas obtidas no Processo Seletivo do Interior (PSI) a cada ano.",
+        "context": "Artigo 1º, § 2º"
+      },
+      {
+        "statement": "A Bonificação Estadual (BE) é calculada aplicando o Coeficiente de Bonificação Estadual (CBE) na nota obtida pelo candidato (NC) no ENEM.",
+        "context": "Artigo 2º"
+      },
+      {
+        "statement": "O Coeficiente de Bonificação Estadual (CBE) é calculado pela fórmula: CBE = (MN - ME) + 1 / MN, onde MN é a média aritmética dos resultados do ENEM em todo o país e ME é a média dos resultados do ENEM para estudantes do Amazonas.",
+        "context": "Artigo 2º, § 1º"
+      },
+      {
+        "statement": "A Nota Final (NF) do candidato será calculada pela fórmula: NF = NC x CBE.",
+        "context": "Artigo 2º, § 2º"
+      },
+      {
+        "statement": "A Bonificação para o Interior (B1) é calculada pelo Coeficiente de Bonificação para o Interior (CBI) na nota obtida pelo candidato (NC) no ENEM, da mesma forma que a Bonificação Estadual.",
+        "context": "Artigo 3º"
+      },
+      {
+        "statement": "Os coeficientes das bonificações serão divulgados em portaria anualmente pela Pró-Reitoria de Ensino de Graduação e publicados nos editais dos respectivos processos seletivos.",
+        "context": "Artigo 5º"
+      },
+      {
+        "statement": "Os casos omissos e não disciplinados na Resolução serão decididos pela Câmara de Ensino de Graduação - CEG/CONSEPE.",
+        "context": "Artigo 7º"
+      },
+      {
+        "statement": "A Resolução nº 044/2015 entra em vigor na data de sua publicação, revogando disposições em contrário.",
+        "context": "Artigo 8º"
+      }
+    ]
+  },
+  "file_0014.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 008/2015 do CONSUNI regulamenta o uso do nome social no âmbito da Universidade Federal do Amazonas (UFAM).",
+        "context": "Artigo 1º, caput."
+      },
+      {
+        "statement": "A UFAM garante às pessoas de ambos os sexos, servidores, docentes, discentes e candidatos participantes de processos seletivos, o uso do nome social em seus registros funcionais, acadêmicos e cadastrais, caso requeiram.",
+        "context": "Artigo 1º, caput."
+      },
+      {
+        "statement": "Entende-se por nome social aquele pelo qual as pessoas se identificam e são identificadas pela sociedade.",
+        "context": "Artigo 1º, § 1º."
+      },
+      {
+        "statement": "O direito de uso do nome social para servidores, docentes e técnico-administrativos será regido pelos termos da Portaria nº 233, de 18 de maio de 2010, do Ministério do Planejamento, Orçamento e Gestão.",
+        "context": "Artigo 1º, § 2º."
+      },
+      {
+        "statement": "Os servidores e discentes podem solicitar formalmente a inclusão ou retirada do nome social em seus cadastros a qualquer tempo durante a manutenção de seu vínculo ativo com a UFAM.",
+        "context": "Artigo 2º, caput."
+      },
+      {
+        "statement": "A solicitação de inclusão ou retirada do nome social deve ser feita na Pró-Reitoria de Ensino de Graduação (PROEG) para discentes, e na Pró-Reitoria de Gestão de Pessoas (PROGESP) para servidores, docentes ou técnico-administrativos.",
+        "context": "Artigo 2º, Parágrafo Único."
+      },
+      {
+        "statement": "Para candidatos participantes de processo seletivo, a inclusão do nome social será registrada no ato da inscrição, em formulário próprio.",
+        "context": "Artigo 3º, caput."
+      },
+      {
+        "statement": "O discente menor de 18 anos pode requerer a utilização do nome social sem a necessidade de autorização do responsável.",
+        "context": "Artigo 4º."
+      },
+      {
+        "statement": "O nome social será o único exibido em documentos de uso interno da UFAM relacionados ao desempenho acadêmico, como listas de presença e divulgação de notas.",
+        "context": "Artigo 5º, caput."
+      },
+      {
+        "statement": "O direito de ser chamado pelo nome social, sem menção ao nome civil, é garantido durante eventos acadêmicos como colação de grau e defesa de tese.",
+        "context": "Artigo 5º, § 2º."
+      },
+      {
+        "statement": "Os agentes públicos devem tratar a pessoa pelo prenome indicado que constará nos atos escritos.",
+        "context": "Artigo 5º, § 4º."
+      },
+      {
+        "statement": "Históricos escolares, certidões, diplomas e outros documentos oficiais serão emitidos com o nome civil, seguido do nome social.",
+        "context": "Artigo 6º."
+      },
+      {
+        "statement": "Casos omissos nesta resolução serão decididos pela Pró-Reitoria competente, ouvida a pessoa interessada.",
+        "context": "Artigo 7º."
+      },
+      {
+        "statement": "A Resolução nº 008/2015 entra em vigor na data de sua publicação.",
+        "context": "Artigo 8º."
+      }
+    ]
+  },
+  "file_0015.pdf": {
+    "facts": [
+      {
+        "statement": "A Lei nº 12.933, de 26 de dezembro de 2013, assegura o benefício do pagamento de meia-entrada para estudantes, idosos, pessoas com deficiência e jovens de 15 a 29 anos comprovadamente carentes em eventos artísticos-culturais e esportivos.",
+        "context": "Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "O benefício de meia-entrada é concedido para acesso a salas de cinema, cineclubes, teatros, espetáculos musicais, circenses e eventos educativos, esportivos, de lazer e de entretenimento.",
+        "context": "Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "Estudantes têm direito ao benefício da meia-entrada mediante apresentação da Carteira de Identificação Estudantil (CIE), que deve ser emitida por entidades específicas, como a ANPG e UNE.",
+        "context": "§ 2º do Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "A CIE é válida até 31 de março do ano subsequente à data de sua expedição.",
+        "context": "§ 6º do Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "Pessoas com deficiência também têm direito ao benefício de meia-entrada, incluindo seu acompanhante, quando necessário.",
+        "context": "§ 8º do Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "Jovens de baixa renda com idade de 15 a 29 anos, inscritos no Cadastro Único para Programas Sociais do Governo Federal, têm direito ao benefício de meia-entrada.",
+        "context": "§ 9º do Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "A concessão do direito ao benefício da meia-entrada é assegurada em 40% dos ingressos disponíveis para cada evento.",
+        "context": "§ 10 do Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "As normas previstas na Lei nº 12.933 não se aplicam a eventos da Copa do Mundo FIFA de 2014 e Olimpíadas do Rio de Janeiro de 2016.",
+        "context": "§ 11 do Artigo 1º da Lei nº 12.933"
+      },
+      {
+        "statement": "A CIE deve conter informações específicas, incluindo o nome completo e data de nascimento do estudante, foto recente, nome da instituição de ensino e data de validade.",
+        "context": "§ 2º do Artigo 3º da Lei nº 12.933"
+      },
+      {
+        "statement": "As entidades emissoras da CIE devem manter um banco de dados com a identificação dos estudantes portadores da CIE, disponível para consulta pelo Poder Público e estabelecimentos.",
+        "context": "§ 4º do Artigo 3º da Lei nº 12.933"
+      },
+      {
+        "statement": "Em caso de emissão irregular de carteiras estudantis, a entidade emissora pode sofrer sanções administrativas e penais.",
+        "context": "Parágrafo único do Artigo 3º da Lei nº 12.933"
+      },
+      {
+        "statement": "A reserva de vagas a jovens de baixa renda nos veículos de transporte coletivo interestadual prevê duas vagas gratuitas e duas com desconto de cinquenta por cento da passagem.",
+        "context": "Artigo 13 do Decreto nº 8.537, de 5 de outubro de 2015"
+      },
+      {
+        "statement": "O beneficiário que solicita o bilhete de viagem do jovem precisa apresentar a Identidade Jovem e um documento de identificação com foto.",
+        "context": "Artigo 14 do Decreto nº 8.537, de 5 de outubro de 2015"
+      },
+      {
+        "statement": "O descumprimento das disposições da Lei nº 12.933 e deste Decreto sujeita os responsáveis a sanções administrativas e legais.",
+        "context": "Artigo 22 do Decreto nº 8.537, de 5 de outubro de 2015"
+      },
+      {
+        "statement": "A fiscalização do cumprimento da Lei nº 12.933 e do Decreto nº 8.537 será realizada pelos órgãos públicos competentes em todos os níveis.",
+        "context": "Artigo 24 do Decreto nº 8.537, de 5 de outubro de 2015"
+      }
+    ]
+  },
+  "file_0016.pdf": {
+    "facts": [
+      {
+        "statement": "Os diplomas de cursos superiores reconhecidos, quando registrados, têm validade nacional como prova da formação recebida por seu titular.",
+        "context": "Artigo 48 da LDB, mencionado na mensagem do Ofício nº: Josdo D:2009-C0REG/DESUP/SESu/MEC."
+      },
+      {
+        "statement": "Um curso deve estar reconhecido para que possa ter sua expedição e registro de diplomas realizados.",
+        "context": "Referente ao processo de reconhecimento de cursos e diplomas."
+      },
+      {
+        "statement": "O órgão competente para atestar o exercício da profissão é o Conselho Profissional da classe correspondente.",
+        "context": "Declaração sobre a atribuição dos Conselhos Profissionais de validar a atuação profissional dos formados."
+      },
+      {
+        "statement": "A Universidade não deve expedir e registrar diplomas mencionando a atuação específica à profissão, como ocorreu no caso mencionado de odontologia.",
+        "context": "Discussão sobre a maneira correta de expedição de diplomas de cursos de bacharelado."
+      },
+      {
+        "statement": "A Portaria da Secretaria de Educação Superior nº 250, de 16 de junho de 2006, referente ao curso de Química Industrial, foi retificada para mudar sua modalidade de bacharelado para licenciatura.",
+        "context": "Exceção sobre a retificação de cursos de Química Industrial, mencionado na resposta do ofício."
+      },
+      {
+        "statement": "Os cursos relacionados no quadro de reconhecimento de portarias não devem sofrer as retificações solicitadas, conforme exposto pelo ofício.",
+        "context": "Lista de cursos que não devem ter suas portarias de reconhecimento retificadas."
+      },
+      {
+        "statement": "Universidades públicas, após a edição da atual LDB, ainda expedem e registram diplomas de forma equivocada, mencionando a atuação profissional.",
+        "context": "Observação sobre a prática inadequada de algumas universidades em relação à expedição de diplomas."
+      },
+      {
+        "statement": "A retificação para o Curso de Química Industrial foi publicada no Diário Oficial da União no dia 12 de novembro de 2007, seção 1, página 14.",
+        "context": "Detalhes sobre a publicação e correção de registros de diplomas referentes ao curso de Química Industrial."
+      }
+    ]
+  },
+  "file_0017.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 020/2019 regula a criação, modificação e extinção de cursos superiores na UFAM.",
+        "context": "Seção I - Introdução da Resolução."
+      },
+      {
+        "statement": "A criação de um curso superior deve ser prevista no Plano de Desenvolvimento Institucional (PDI), Projeto Pedagógico Institucional (PPI) e Projeto Pedagógico do Curso (PPC).",
+        "context": "Artigo 2º - Da criação do curso."
+      },
+      {
+        "statement": "Para criar um curso, a unidade acadêmica deve realizar um estudo de demanda que demonstre a viabilidade do curso, considerando aspectos sociais, econômicos e institucionais.",
+        "context": "Artigo 3º - Da criação do curso."
+      },
+      {
+        "statement": "O plano de implantação do curso deve conter a análise da infraestrutura necessária, recursos financeiros, corpo docente e técnico-administrativo, entre outros requisitos.",
+        "context": "Artigo 4º - Da criação do curso."
+      },
+      {
+        "statement": "O processo de criação de um novo curso deve ser encaminhado à Pró-Reitoria de Ensino de Graduação (PROES) com pelo menos um ano de antecedência da sua implantação.",
+        "context": "Artigo 5º - Da criação do curso."
+      },
+      {
+        "statement": "Nenhum curso de graduação pode ser iniciado sem que o PPC tenha sido apreciado e aprovado pelos órgãos competentes.",
+        "context": "Artigo 6º - Da elaboração do PPC."
+      },
+      {
+        "statement": "O PPC deve seguir as diretrizes da LDBEN e das Diretrizes Curriculares Nacionais (DCNs), além das orientações do Manual de Elaboração de Projetos Pedagógicos dos Cursos (MEPPC).",
+        "context": "Artigo 7º - Da elaboração do PPC."
+      },
+      {
+        "statement": "O currículo de um curso é composto por componentes curriculares obrigatórios, optativos, estágios e trabalho de conclusão de curso (TCC).",
+        "context": "Artigo 8º - Do currículo."
+      },
+      {
+        "statement": "Alterações na matriz curricular devem ser propostas pelo Núcleo Docente Estruturante (NDE) e submetidas ao colegiado de curso para análise e deliberação.",
+        "context": "Artigo 18 - Das normas para criação e modificação da matriz curricular."
+      },
+      {
+        "statement": "A extinção de um curso pode ser solicitada se não atender mais os objetivos previstos no PDI e no PPI da UFAM, dentre outros critérios.",
+        "context": "Artigo 23 - Da extinção de um curso."
+      },
+      {
+        "statement": "O processo de extinção deve ser gradual e incluir um plano de extinção que garanta a formatura dos últimos alunos do curso.",
+        "context": "Artigo 24 - Da extinção de um curso."
+      },
+      {
+        "statement": "Discentes do curso em extinção devem ter garantidas as condições para a conclusão de seus estudos.",
+        "context": "Artigo 27 - Da extinção de um curso."
+      },
+      {
+        "statement": "Os casos omissos na resolução devem ser resolvidos pelo Conselho de Ensino, Pesquisa e Extensão (CONSEPE).",
+        "context": "Artigo 28 - Disposições Finais."
+      },
+      {
+        "statement": "A Resolução nº 020/2019 entrará em vigor na data de sua assinatura.",
+        "context": "Artigo 29 - Disposições Finais."
+      }
+    ]
+  },
+  "file_0018.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 062/2011 cria e regulamenta os Núcleos Docentes Estruturantes (NDE) no âmbito dos cursos de graduação da Universidade Federal do Amazonas.",
+        "context": "Introdução da Resolução nº 062/2011."
+      },
+      {
+        "statement": "O Núcleo Docente Estruturante é uma instância consultiva, composta por professores do próprio curso, responsável pelo acompanhamento, consolidação e atualização contínua do projeto pedagógico.",
+        "context": "Artigo 2º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "As atribuições do Núcleo Docente Estruturante incluem contribuir para a consolidação do perfil do egresso, zelar pela aplicação das Diretrizes Curriculares Nacionais, e observar, contribuir e acompanhar a implantação e avaliação do projeto pedagógico.",
+        "context": "Artigo 3º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "O Núcleo Docente Estruturante deve ser composto pelo coordenador do curso e por no mínimo cinco professores efetivos com dedicação exclusiva à Universidade Federal do Amazonas.",
+        "context": "Artigo 4º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "Pelo menos 60% dos membros do Núcleo Docente Estruturante devem ter titulação acadêmica obtida em programas de pós-graduação stricto sensu na área de conhecimento do curso.",
+        "context": "Artigo 5º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "Os membros do Núcleo Docente Estruturante são indicados pelo Colegiado do Curso, e o presidente do NDE será o Coordenador do Curso.",
+        "context": "Artigo 5º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "O Núcleo Docente Estruturante se reunirá uma vez por semestre e extraordinariamente sempre que convocado pelo presidente ou por solicitação da maioria dos seus membros.",
+        "context": "Artigo 6º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "O presidente do Núcleo Docente Estruturante tem a competência de convocar e presidir as reuniões, representar o NDE junto aos órgãos institucionais e encaminhar propostas ao Colegiado do Curso.",
+        "context": "Artigo 7º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "Os mandatos dos integrantes do Núcleo Docente Estruturante, incluindo o Coordenador do Colegiado de Curso, são de dois anos e cada membro pode ser reconduzido por dois mandatos.",
+        "context": "Artigo 8º da Resolução nº 062/2011."
+      },
+      {
+        "statement": "A Resolução nº 062/2011 entrou em vigor na data de sua publicação, em 30 de setembro de 2011.",
+        "context": "Artigo 9º da Resolução nº 062/2011."
+      }
+    ]
+  },
+  "file_0019.pdf": {
+    "facts": [
+      {
+        "statement": "O período especial compreenderá o intervalo entre os dois semestres letivos regulares e terá a duração mínima de 18 dias letivos, incluindo sábados.",
+        "context": "Art. 1º - D0 PERÍ0D0 ESPECIAL"
+      },
+      {
+        "statement": "Os períodos especiais serão definidos no calendário acadêmico da UFAM.",
+        "context": "Art. 1º - D0 PERÍ0D0 ESPECIAL, § 2º"
+      },
+      {
+        "statement": "Cabem aos Departamentos/Coordenações Acadêmicas decidir sobre a possibilidade de oferecer disciplinas em períodos especiais, respeitando as limitações fixadas na resolução.",
+        "context": "Art. 2º - D0 ALUN0"
+      },
+      {
+        "statement": "O conteúdo programático, carga horária e os créditos das disciplinas oferecidas em período especial devem ser iguais aos das disciplinas oferecidas em período regular.",
+        "context": "Art. 3º - D0 ALUN0"
+      },
+      {
+        "statement": "O aluno pode cursar, no máximo, 2 disciplinas em período especial, desde que respeitados os pré-requisitos e que as disciplinas não tenham mais que 80% da carga horária cursada concomitantemente.",
+        "context": "Art. 4º - D0 ALUN0, § 1º"
+      },
+      {
+        "statement": "Não será permitida a matrícula do aluno durante ou após a realização da disciplina em período especial, conforme a resolução nº 026/2007 - CONSUPE.",
+        "context": "Art. 4º - D0 ALUN0, § 2º"
+      },
+      {
+        "statement": "Não será permitido trancamento nem cancelamento de matrícula em disciplina oferecida em período especial.",
+        "context": "Art. 5º - D0 ALUN0"
+      },
+      {
+        "statement": "Podem ser oferecidas disciplinas obrigatórias ou optativas de todos os cursos de graduação em período especial, desde que não ultrapassem 24 horas semanais.",
+        "context": "Art. 6º - DA OFERTA"
+      },
+      {
+        "statement": "Estão excluídas da oferta em períodos especiais as seguintes disciplinas: Trabalho de Conclusão de Curso, Monografia, Estágio e disciplinas que requeiram prática de campo.",
+        "context": "Art. 6º - DA OFERTA, Parágrafo Único"
+      },
+      {
+        "statement": "Nenhuma oferta de disciplina poderá exceder 4 horas de aula diárias.",
+        "context": "Art. 7º - DA OFERTA"
+      },
+      {
+        "statement": "A matrícula será realizada pelo Coordenador de Curso por meio do Sistema Acadêmico vigente, obedecendo à data prevista no calendário acadêmico.",
+        "context": "Art. 9º - DA MATRÍCULA"
+      }
+    ]
+  },
+  "file_0020.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 018/2012 regulamenta a operacionalização da oferta de disciplinas a cada semestre na Universidade Federal do Amazonas.",
+        "context": "Introdução da Resolução nº 018/2012."
+      },
+      {
+        "statement": "A cada período letivo, a Universidade deve fazer a oferta de disciplinas obrigatórias e optativas.",
+        "context": "Artigo 1º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "O coordenador de curso e o chefe de departamento/coordenador acadêmico são responsáveis diretos pela oferta das disciplinas.",
+        "context": "§ 1º do Artigo 1º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "A PR0EG é responsável pelo acompanhamento e supervisão da oferta de disciplinas.",
+        "context": "§ 2º do Artigo 1º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "A oferta de disciplinas é feita através do Sistema Integrado de Ensino – SIE.",
+        "context": "Artigo 2º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "O coordenador de curso deve sugerir dias, horários e o nome do professor para ministrar as disciplinas.",
+        "context": "Artigo 2º, alínea 'a' da Resolução nº 018/2012."
+      },
+      {
+        "statement": "Se não houver concordância sobre dias e horários, deve haver diálogo via SIE até que haja consenso.",
+        "context": "§ 1º do Artigo 2º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "Caso não haja consenso após o prazo de oferta, a PR0EG poderá propor dias e horários alternativos para a disciplina.",
+        "context": "§ 2º do Artigo 2º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "É obrigatória a indicação do nome do professor responsável por cada disciplina/turma ofertada.",
+        "context": "Artigo 3º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "Se não houver professor disponível, o chefe de departamento deve sinalizar a situação no SIE.",
+        "context": "Parágrafo único do Artigo 3º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "O chefe de departamento/coordenador acadêmico deve priorizar a alocação de professores para disciplinas do primeiro período, especialmente para calouros.",
+        "context": "Artigo 4º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "O chefe de departamento/coordenador acadêmico pode alocar mais de um professor para ministrar uma disciplina, definindo um coordenador dentre eles.",
+        "context": "Artigo 5º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "O processo de oferta de disciplina/turma é considerado finalizado quando a disciplina/turma estiver com a situação de \"matrícula\" no SIE.",
+        "context": "Artigo 6º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "O chefe de departamento/coordenador acadêmico é responsável pelas providências de atualização do ambiente físico onde ocorrerão as aulas.",
+        "context": "Artigo 8º da Resolução nº 018/2012."
+      },
+      {
+        "statement": "Esta Resolução passa a vigorar a partir da data de sua publicação, revogando disposições em contrário.",
+        "context": "Artigo 9º da Resolução nº 018/2012."
+      }
+    ]
+  },
+  "file_0021.pdf": {
+    "facts": [
+      {
+        "statement": "A apresentação do documento \"NADA CONSTA\" é obrigatória para o corpo discente nos seguintes casos: colação de grau, transferência, trancamento de matrícula e transferência de curso.",
+        "context": "Art. 1º, § 1º, I"
+      },
+      {
+        "statement": "Para a matrícula, é obrigatória a apresentação do documento \"NADA CONSTA\" quando houver débito com as Bibliotecas Setoriais.",
+        "context": "Art. 1º, § 1º, II"
+      },
+      {
+        "statement": "O documento \"NADA CONSTA\" é exigido do corpo docente e técnico-administrativo nos casos de exoneração, aposentadoria, licença para trato de interesses particulares, licença para acompanhar o cônjuge, transferência, redistribuição e afastamento para estudo superior a seis meses.",
+        "context": "Art. 1º, § 2º, I"
+      },
+      {
+        "statement": "A Biblioteca Central é o órgão competente para a emissão do documento \"NADA CONSTA\".",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "As Bibliotecas Setoriais devem encaminhar a listagem de devedores ao CPD, que é responsável pelo bloqueio da matrícula.",
+        "context": "Art. 2º, parágrafo único"
+      },
+      {
+        "statement": "O documento \"NADA CONSTA\" tem um prazo de validade de 30 dias corridos a partir da data de emissão.",
+        "context": "Art. 2º, parágrafo único"
+      },
+      {
+        "statement": "Compete à Pró-Reitoria de Ensino de Graduação controlar a aplicação das exigências para o corpo discente relacionadas ao documento \"NADA CONSTA\".",
+        "context": "Art. 3º"
+      },
+      {
+        "statement": "Compete ao Departamento de Pessoal controlar as exigências para o corpo docente e técnico-administrativo relativas ao documento \"NADA CONSTA\".",
+        "context": "Art. 3º"
+      },
+      {
+        "statement": "Esta Portaria vigorará até que o Conselho Universitário aprove a normatização da matéria.",
+        "context": "Art. 4º"
+      }
+    ]
+  },
+  "file_0022.pdf": {
+    "facts": [
+      {
+        "statement": "O arquivo original do documento é intitulado 'RES 32_2016 BOLETIM DIÁRIO CLASSE.pdf'.",
+        "context": "Informações adicionais sobre arquivos"
+      },
+      {
+        "statement": "O texto aborda temas relacionados a 'Diário Classe', 'Boletins', 'Notas' e 'Faltas'.",
+        "context": "Informações adicionais sobre textos âncora"
+      }
+    ]
+  },
+  "file_0023.pdf": {
+    "facts": [
+      {
+        "statement": "O PACC (Plano de Ação de Coordenação de Curso) é obrigatório para o cumprimento das políticas públicas educacionais da educação superior do Ministério da Educação.",
+        "context": "Art. 1º"
+      },
+      {
+        "statement": "O objetivo do PACC é contribuir para a elevação da taxa de sucesso na graduação, acompanhando ações didático-pedagógicas, do corpo docente e tutoral, e ações administrativas e de infraestrutura.",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "O PACC deve ser elaborado pelo Coordenador de Curso em conjunto com o Núcleo Docente Estruturante, semestralmente, e compartilhado em meio eletrônico e/ou impresso com todos os segmentos da instituição (docentes, discentes e técnico-administrativos) antes do início de cada período letivo.",
+        "context": "Art. 3º"
+      },
+      {
+        "statement": "O PACC deve conter obrigatoriamente: levantamento das necessidades acadêmicas, atividades a serem desenvolvidas, formas de operacionalização, cronograma, indicadores de qualidade e formas de monitoramento e controle.",
+        "context": "Art. 4º"
+      },
+      {
+        "statement": "O PACC deve ser composto pelos seguintes itens: Unidade Acadêmica, Curso, Ano, Semestre, Conceito de curso, Modalidade de curso (bacharelado ou licenciatura) e Nota ENADE.",
+        "context": "Art. 5º"
+      },
+      {
+        "statement": "O PACC deve receber parecer favorável do respectivo Colegiado de Curso e ser submetido à aprovação do Conselho Diretor ou Conselho Departamental, conforme o caso.",
+        "context": "Art. 6º"
+      },
+      {
+        "statement": "Na elaboração do PACC, deve-se observar conceitos como: contextualização da situação do curso, planejamento das ações, cronograma das ações, e análise descritiva dos resultados, mencionando potenciais, fragilidades e ameaças externas.",
+        "context": "Art. 7º"
+      },
+      {
+        "statement": "A presente Portaria entra em vigor na data de sua publicação, 29 de agosto de 2018.",
+        "context": "Art. 8º"
+      }
+    ]
+  },
+  "file_0024.pdf": {
+    "facts": [
+      {
+        "statement": "As Diretrizes Curriculares Nacionais para a Formação Inicial e Continuada em Nível Superior de Profissionais do Magistério para a Educação Básica foram definidas por meio da Resolução CNE/CP nº 2, de 1º de julho de 2015.",
+        "context": "Introdução da Resolução"
+      },
+      {
+        "statement": "A formação inicial compreende cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura.",
+        "context": "Artigo 9º da Resolução"
+      },
+      {
+        "statement": "As diretrizes de formação devem observar a articulação entre graduação, pós-graduação e entre pesquisa e extensão como princípios pedagógicos essenciais.",
+        "context": "Contexto da formação docente e princípios"
+      },
+      {
+        "statement": "Os cursos de formação inicial devem ter carga horária mínima de 3.200 horas, distribuídas em atividades formativas e práticas.",
+        "context": "Artigo 13º, Parágrafo 1º"
+      },
+      {
+        "statement": "Os cursos de formação pedagógica para graduados não licenciados devem ter carga horária entre 1.000 e 1.400 horas, dependendo da área de formação de origem.",
+        "context": "Artigo 14º, Parágrafo 1º"
+      },
+      {
+        "statement": "O estágio curricular supervisionado é um componente obrigatório da formação nas licenciaturas e deve estar intrinsecamente articulado com a prática educacional.",
+        "context": "Artigo 13º, Parágrafo 6º"
+      },
+      {
+        "statement": "A instituição de educação superior que oferta cursos de formação deve garantir uma estrutura que articule ensino, pesquisa e extensão conforme normas do Ministério da Educação.",
+        "context": "Artigo 4º"
+      },
+      {
+        "statement": "Os profissionais do magistério da educação básica são definidos como aqueles que exercem atividades de docência e outras atividades pedagógicas, conforme a legislação vigente.",
+        "context": "Artigo 3º, § 4º"
+      },
+      {
+        "statement": "A formação continuada é composta por atividades organizacionais e profissionais que buscam o aperfeiçoamento técnico, pedagógico, ético e político do profissional docente.",
+        "context": "Artigo 16º"
+      },
+      {
+        "statement": "A formação continuada deve incluir atividades formativas com carga horária mínima de 20 horas e máxima de 80 horas, além de cursos de aperfeiçoamento e especialização.",
+        "context": "Artigo 17º, § 1º"
+      },
+      {
+        "statement": "Os cursos de segunda licenciatura devem ter carga horária mínima variando de 800 a 1.200 horas, dependendo da área de origem do candidato.",
+        "context": "Artigo 15º, Parágrafo 1º"
+      },
+      {
+        "statement": "Deve ser garantida a equidade no acesso à formação inicial e continuada, contribuindo para a redução das desigualdades sociais e regionais.",
+        "context": "Artigo 5º, § 8º"
+      },
+      {
+        "statement": "Os cursos de formação devem incluir conteúdos relativos à diversidade étnico-racial, de gênero, sexual e religiosa, bem como promover a educação inclusiva.",
+        "context": "Artigo 14º, § 2º"
+      },
+      {
+        "statement": "As políticas de valorização do magistério devem garantir formação contínua, plano de carreira e condições dignas de trabalho.",
+        "context": "Artigo 18º"
+      },
+      {
+        "statement": "O Ministério da Educação é responsável por avaliar a oferta dos cursos de formação pedagógica para graduados e definir um prazo para a extinção conforme a necessidade.",
+        "context": "Artigo 14º, § 7º"
+      },
+      {
+        "statement": "As instituições de educação básica devem articular processos pedagógicos com o contexto social e cultural dos estudantes.",
+        "context": "Artigo 5º, § 3º"
+      },
+      {
+        "statement": "Os cursos de formação devem incluir práticas de formação em diversas áreas do conhecimento, respeitando a realidade das comunidades atendidas.",
+        "context": "Artigo 10º, Parágrafo único."
+      }
+    ]
+  },
+  "file_0025.pdf": {
+    "facts": [
+      {
+        "statement": "O limite máximo de créditos optativos que o aluno de graduação da Universidade do Amazonas poderá cursar é de 25% do total de créditos exigidos para a integralização de seu curso.",
+        "context": "Artigo 1º da Resolução Nº 018/93 do Conselho de Ensino e Pesquisa."
+      },
+      {
+        "statement": "Nos cursos em que o limite mínimo de créditos optativos é fixado acima dos 25%, o limite máximo será o próprio limite mínimo fixado para aquele curso.",
+        "context": "Parágrafo Único do Artigo 1º da Resolução Nº 018/93."
+      },
+      {
+        "statement": "Esta Resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário.",
+        "context": "Artigo 29 da Resolução Nº 018/93."
+      },
+      {
+        "statement": "A decisão foi tomada em reunião ordinária do Conselho de Ensino e Pesquisa, realizada em 07 de dezembro de 1993.",
+        "context": "Contexto geral da Resolução Nº 018/93."
+      },
+      {
+        "statement": "A Resolução foi emitida pelo Pró-Reitor de Administração da Universidade do Amazonas, no exercício da Presidência do Conselho de Ensino e Pesquisa.",
+        "context": "Introdução da Resolução Nº 018/93."
+      },
+      {
+        "statement": "A deliberação foi feita considerando o disposto no artigo 44, inciso IV, do Regimento Geral da Universidade do Amazonas.",
+        "context": "Considerações iniciais da Resolução Nº 018/93."
+      },
+      {
+        "statement": "A reunião do Fórum de Coordenadores de Colegiados de Curso ocorreu em 19.05.93, antes da emissão da resolução.",
+        "context": "Considerações iniciais da Resolução Nº 018/93."
+      },
+      {
+        "statement": "A Resolução foi publicada em Manaus, como parte da documentação oficial da Universidade do Amazonas.",
+        "context": "Encerramento da Resolução Nº 018/93."
+      }
+    ]
+  },
+  "file_0026.pdf": {
+    "facts": [
+      {
+        "statement": "Este Decreto-Lei estabelece tratamento excepcional para alunos portadores de afecções congênitas ou adquiridas, infecções, traumatismos ou outras condições mórbidas.",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "Os alunos que são considerados merecedores de tratamento excepcional incluem aqueles que apresentam incapacidade física relativa que dificulta a frequência às aulas.",
+        "context": "Artigo 1º, inciso a"
+      },
+      {
+        "statement": "Para ter direito ao regime de exceção, o aluno deve apresentar laudo médico elaborado por autoridade oficial do sistema educacional.",
+        "context": "Artigo 3º"
+      },
+      {
+        "statement": "O diretor do estabelecimento de ensino é responsável por autorizar o regime de exceção e encaminhar à autoridade superior imediata.",
+        "context": "Artigo 4º"
+      },
+      {
+        "statement": "Os estudantes que recebem tratamento excepcional devem realizar exercícios domiciliares com acompanhamento da escola, respeitando suas condições de saúde.",
+        "context": "Artigo 2º"
+      },
+      {
+        "statement": "O Decreto-Lei entrará em vigor na data de sua publicação e revoga disposições em contrário.",
+        "context": "Artigo 5º"
+      },
+      {
+        "statement": "O Decreto-Lei foi assinado pelos Ministros da Marinha de Guerra, do Exército e da Aeronáutica Militar como parte das atribuições conferidas pela legislação vigente.",
+        "context": "Introdução do Decreto-Lei"
+      },
+      {
+        "statement": "São exemplos de afecções que podem justificar o tratamento excepcional: síndromes hemorrágicas (como a hemofilia), asma, artrite, pericardite, e afecções osteoarticulares.",
+        "context": "Artigo 1º, último parágrafo"
+      }
+    ]
+  },
+  "file_0027.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 010/2016/CEG/CONSEPE regulamenta as normas para a inclusão de disciplinas semipresenciais em cursos de graduação presenciais da UFAM.",
+        "context": "Introdução da Resolução"
+      },
+      {
+        "statement": "A Resolução entra em vigor a partir do semestre letivo 2016/1 e revoga a Resolução nº 009/2011/CEG/CONSEPE.",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "Disciplinas semipresenciais caracterizam-se por sua organização em módulos centrados na autoaprendizagem e sua metodologia utiliza recursos didáticos com tecnologias de comunicação remota, complementadas com encontros presenciais.",
+        "context": "Art. 1º, parágrafo único"
+      },
+      {
+        "statement": "Disciplinas semipresenciais podem ser uma nova disciplina, uma versão semipresencial de uma disciplina já existente ou uma versão em substituição à disciplina presencial já existente.",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "Na hipótese de retenção em uma disciplina presencial, a versão semipresencial dessa disciplina pode ser oferecida aos alunos.",
+        "context": "Art. 2º, parágrafo primeiro"
+      },
+      {
+        "statement": "As disciplinas semipresenciais podem ser oferecidas de forma integral ou parcial, com a limitação de até 20% da carga horária total do respectivo curso.",
+        "context": "Art. 3º"
+      },
+      {
+        "statement": "Para cada crédito teórico oferecido, deve ocorrer um encontro presencial de, no mínimo, 2 horas.",
+        "context": "Art. 3º, §1º"
+      },
+      {
+        "statement": "Os créditos práticos não podem ser oferecidos na modalidade semipresencial.",
+        "context": "Art. 3º, §2º"
+      },
+      {
+        "statement": "Professor que ministrar disciplinas na modalidade semipresencial deve possuir capacitação específica em Educação a Distância (EaD) e em Ambiente Virtual de Aprendizagem (AVA).",
+        "context": "Art. 6º"
+      },
+      {
+        "statement": "Compete ao coordenador do curso solicitar a atualização dos Projetos Político-Pedagógicos para incluir as disciplinas semipresenciais.",
+        "context": "Art. 7º"
+      },
+      {
+        "statement": "As atividades da disciplina semipresencial devem preferencialmente ser desenvolvidas nas dependências da UFAM e dentro do horário estabelecido no plano de ensino.",
+        "context": "Art. 8º"
+      },
+      {
+        "statement": "Os instrumentos de avaliação do rendimento acadêmico dos estudantes nas disciplinas semipresenciais devem seguir o plano de ensino e incluem uma prova final presencial obrigatória.",
+        "context": "Art. 9º"
+      },
+      {
+        "statement": "A inclusão de disciplinas semipresenciais compõe a organização curricular e pedagógica do curso e requer aprovação do Colegiado do Curso e da Câmara de Ensino de Graduação.",
+        "context": "Art. 10, I"
+      },
+      {
+        "statement": "O aproveitamento de disciplinas semipresenciais no histórico escolar dos estudantes não pode ultrapassar o limite de 20% da carga horária total exigida do curso.",
+        "context": "Art. 10, II"
+      },
+      {
+        "statement": "As disciplinas semipresenciais devem ser avaliadas pelo Núcleo Docente Estruturante e pelo Colegiado do Curso, com os resultados enviados à Pró-Reitoria de Ensino de Graduação.",
+        "context": "Art. 11"
+      },
+      {
+        "statement": "A UFAM assegurará as condições necessárias para utilização das ferramentas pelos docentes e discentes na execução das atividades.",
+        "context": "Art. 12"
+      },
+      {
+        "statement": "Casos omissos devem ser submetidos à Pró-Reitoria de Ensino de Graduação para as devidas providências.",
+        "context": "Art. 13"
+      }
+    ]
+  },
+  "file_0028.pdf": {
+    "facts": [
+      {
+        "statement": "O Processo Seletivo Extramacro (PSE) é o procedimento pelo qual a Universidade Federal do Amazonas provê a oferta de vagas ociosas em seus cursos de graduação.",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "As modalidades de ingresso no Processo Seletivo Extramacro incluem: Transferência Facultativa Externa (TFE), Portador de Diploma de Curso Superior (PD), Reopção de Curso (RC) e Transferência Facultativa Interna (TFI).",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "Transferência Facultativa Externa (TFE) permite a admissão de alunos regularmente matriculados em outras Instituições de Ensino Superior para o mesmo curso na UFAM.",
+        "context": "§ 1º do Artigo 1º"
+      },
+      {
+        "statement": "Portador de Diploma de Curso Superior (PD) é a forma de admissão de alunos egressos de cursos de graduação de outras instituições para outro curso na mesma área de conhecimento na UFAM.",
+        "context": "§ 2º do Artigo 1º"
+      },
+      {
+        "statement": "Reopção de Curso (RC) consiste na movimentação acadêmica de um aluno regular de um curso de graduação para outro na mesma área de conhecimento dentro da UFAM.",
+        "context": "§ 3º do Artigo 1º"
+      },
+      {
+        "statement": "Transferência Facultativa Interna (TFI) consiste na movimentação acadêmica de um aluno regular de um curso de graduação para o mesmo curso oferecido em outro campus da UFAM.",
+        "context": "§ 4º do Artigo 1º"
+      },
+      {
+        "statement": "O Departamento de Registro Acadêmico (DRA) deve levantar, até o final do primeiro semestre letivo de cada ano, as vagas ociosas de cada curso na instituição.",
+        "context": "Artigo 2º"
+      },
+      {
+        "statement": "Vagas ociosas são aquelas resultantes de desistência, jubilamento, óbito, transferência ou exclusão por processo disciplinar.",
+        "context": "§ 1º do Artigo 2º"
+      },
+      {
+        "statement": "O relatório com o número de vagas ociosas deve ser encaminhado ao Pró-Reitor de Ensino de Graduação que determina a abertura do processo seletivo por meio de edital publicado pela Comissão Permanente de Concursos.",
+        "context": "§ 2º do Artigo 2º"
+      },
+      {
+        "statement": "A inscrição para o Processo Seletivo Extramacro será processada pela Comissão Permanente de Concursos, com prazos e condições estabelecidos em edital específico.",
+        "context": "Artigo 4º"
+      },
+      {
+        "statement": "A matrícula institucional será realizada pela Coordenação de Matrícula do DRA/PROEG, com prazos e condições estabelecidos em edital específico.",
+        "context": "Artigo 6º"
+      },
+      {
+        "statement": "No ato da matrícula, os candidatos devem apresentar documentos oficiais, sob pena de perda irrevogável do direito à vaga.",
+        "context": "§ 1º do Artigo 6º"
+      },
+      {
+        "statement": "Para Transferência Facultativa Externa (TFE), os candidatos devem apresentar um histórico escolar autenticado pela instituição de origem, entre outros documentos.",
+        "context": "II do § 1º do Artigo 6º"
+      },
+      {
+        "statement": "Candidaturas oriundas de curso sequencial e de curso de oferta não regular não serão aceitas para modalidades de transferência facultativa.",
+        "context": "Artigo 7º"
+      },
+      {
+        "statement": "Para o Processo Seletivo, caberá interposição de recurso à Comissão Permanente de Concursos em caso de decisão desfavorável na única fase de prova de conhecimento.",
+        "context": "Artigo 8º"
+      },
+      {
+        "statement": "O pedido de aproveitamento de estudos será examinado de acordo com o Regimento Geral da Universidade e regulamentação vigente.",
+        "context": "Artigo 9º"
+      },
+      {
+        "statement": "Esta Resolução entra em vigor na data de sua aprovação pela Câmara de Ensino de Graduação e revoga a Resolução CEG/CONSEPE nº 024, de 9 de maio de 2012.",
+        "context": "Artigos 10 e 11"
+      }
+    ]
+  },
+  "file_0030.pdf": {
+    "facts": [
+      {
+        "statement": "Estabelece um prazo de 3 meses a partir da conclusão do processo para o resgate de documentos pessoais em cópia, atestados ou declarações.",
+        "context": "Art. 1º - Disposições gerais sobre o prazo para resgate de documentos."
+      },
+      {
+        "statement": "Após o prazo de 3 meses, documentos particulares não resgatados deverão ser disponibilizados para reciclagem.",
+        "context": "Art. 1º - Disposições gerais sobre o prazo para resgate de documentos."
+      },
+      {
+        "statement": "Para readquirir a posse dos documentos dentro do prazo de 3 meses, o requerente deve provar que é o verdadeiro proprietário apresentando outro documento hábil com fotografia.",
+        "context": "Art. 2º - Condições para o resgate de documentos."
+      },
+      {
+        "statement": "Ao receber os documentos, o requerente deverá subscrever um termo de desentranhamento para consignar a devolução ao seu legítimo proprietário.",
+        "context": "Art. 3º - Procedimentos na devolução dos documentos."
+      },
+      {
+        "statement": "O requerimento de solicitação de documento deve ser dirigido à Divisão de Orientação Acadêmica (DOA) dentro do prazo estabelecido e deve incluir identificação pessoal e informações exatas.",
+        "context": "Art. 4º - Diretrizes para a solicitação de documentos."
+      },
+      {
+        "statement": "O documento foi publicado e assinado pelo Pró-Reitor de Ensino de Graduação, Bruce Patrick Osborn, em 3 de maio de 2002.",
+        "context": "Informações gerais sobre a publicação e autor do documento."
+      }
+    ]
+  },
+  "file_0031.pdf": {
+    "facts": [
+      {
+        "statement": "O Programa Interinstitucional e Intercampi de Mobilidade Estudantil (PRIIMES) foi instituído e regulamentado pela Resolução nº 064/2011 da UFAM.",
+        "context": "Introdução da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O PRIIMES tem como objetivo operacionalizar a mobilidade de estudantes de graduação da UFAM e de outras Instituições de Ensino Superior (IES), exceto Instituições Federais de Ensino Superior (IFES).",
+        "context": "Artigo 1º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O PRIIMES beneficia três categorias de alunos: Aluno Visitante Interinstitucional (AVI), Aluno UFAM Interinstitucional (AUFI) e Aluno de Mobilidade Interna (AMI).",
+        "context": "Artigo 2º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O Aluno Visitante Interinstitucional (AVI) é o aluno matriculado em uma IES pública que deseja realizar mobilidade com a UFAM.",
+        "context": "Definição do AVI no artigo 2º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O Aluno UFAM Interinstitucional (AUFI) é aquele que está regularmente matriculado na UFAM e que deseja realizar mobilidade com outra IES pública.",
+        "context": "Definição do AUFI no artigo 2º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O Aluno de Mobilidade Interna (AMI) é aquele matriculado na UFAM que pretende realizar mobilidade entre os campi da UFAM.",
+        "context": "Definição do AMI no artigo 2º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "Somente poderão participar do PRIIMES os alunos vinculados a Instituições de Ensino Superior públicas que possuam convênio com a UFAM.",
+        "context": "Artigo 3º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "Para candidatar-se ao PRIIMES, o aluno AVI e AUFI deve ter integralizado todas as disciplinas do primeiro ano letivo, não ter mais de uma reprovação por período letivo, e apresentar coeficiente de rendimento acadêmico igual ou superior a 5.",
+        "context": "Artigo 4º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "A coordenação do PRIIMES é realizada pela Pró-Reitoria de Ensino de Graduação (PROEG) em conjunto com as coordenações dos cursos e o Departamento de Registro Acadêmico (DRA/PROEG).",
+        "context": "Artigo 5º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O Programa de Mobilidade Estudantil entre os campi da UFAM propõe experiências de novas metodologias de ensino-aprendizagem e oportunidades de estágio em municípios com campus da UFAM.",
+        "context": "Artigo 6º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "As bolsas do PRIIMES podem ser disponibilizadas para alunos que realizarem mobilidade de cursos fora da sede da UFAM, com limite de três bolsas por curso, por semestre.",
+        "context": "Artigo 6º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "Os alunos que requerem a participação no PRIIMES devem apresentar um plano de mobilidade que incluirá as disciplinas e períodos a serem cursados na unidade receptora.",
+        "context": "Artigo 8º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "A seleção para a mobilidade entre os campi será feita através de edital específico.",
+        "context": "Artigo 7º da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O prazo máximo de permanência para o AVI e o AUFI na UFAM ou na IES receptora é de dois semestres letivos consecutivos, podendo ser prorrogado em casos excepcionais.",
+        "context": "Artigo 13 da Resolução nº 064/2011."
+      },
+      {
+        "statement": "O aluno participante do PRIIMES terá acesso à Biblioteca, Restaurante Universitário e atividades culturais do campus.",
+        "context": "Artigo 16 da Resolução nº 064/2011."
+      },
+      {
+        "statement": "A UFAM não se responsabiliza pelas despesas de alimentação, hospedagem e deslocamento do aluno que optar pela mobilidade interna sem bolsa.",
+        "context": "Artigo 17 da Resolução nº 064/2011."
+      },
+      {
+        "statement": "As solicitações de participação no PRIIMES que não atenderem aos critérios estabelecidos serão indeferidas.",
+        "context": "Artigo 20 da Resolução nº 064/2011."
+      },
+      {
+        "statement": "Esta resolução entra em vigor na data de sua publicação, revogadas disposições em contrário.",
+        "context": "Artigo 22 da Resolução nº 064/2011."
+      }
+    ]
+  },
+  "file_0032.pdf": {
+    "facts": [
+      {
+        "statement": "O Exame Nacional de Desempenho dos Estudantes (ENADE) foi inserido como disciplina obrigatória nas matrizes curriculares dos Cursos de Graduação da UFAM.",
+        "context": "RESOLUÇÃO nº 027/2010-CEG"
+      },
+      {
+        "statement": "O ENADE é definido como 'componente curricular obrigatório' segundo a Lei nº 10.861, de 14 de abril de 2004.",
+        "context": "Considerando que o ENADE é definido no art. 5º, § 5º da Lei nº 10.861, de 14 de abril de 2004."
+      },
+      {
+        "statement": "O registro do ENADE no histórico escolar do aluno será feito pela Divisão de Registro e Controle — PROEG, com menção 'PARTICIPANTE', 'DISPENSADO' ou 'IRREGULAR'.",
+        "context": "Art. 2º da RESOLUÇÃO nº 027/2010-CEG"
+      },
+      {
+        "statement": "Receberá a menção 'participante' no histórico escolar o aluno que se submeteu ao ENADE.",
+        "context": "§ 1º do Art. 2º da RESOLUÇÃO nº 027/2010-CEG"
+      },
+      {
+        "statement": "Receberá a menção 'dispensado' no histórico escolar o aluno que foi inscrito mas não selecionado, ou que não se enquadrava na amostra definida pelo INEP.",
+        "context": "§ 2º do Art. 2º da RESOLUÇÃO nº 027/2010-CEG"
+      },
+      {
+        "statement": "Receberá a menção 'irregular' no histórico escolar o aluno que não se submeteu ao ENADE no ano de avaliação de seu curso e tinha obrigatoriedade de fazê-lo.",
+        "context": "§ 3º do Art. 2º da RESOLUÇÃO nº 027/2010-CEG"
+      },
+      {
+        "statement": "Somente será conferido o grau ao aluno que tiver concluído todos os créditos e carga horária de seu curso e que tenha participado ou sido dispensado do ENADE.",
+        "context": "Art. 3º da RESOLUÇÃO nº 027/2010-CEG"
+      },
+      {
+        "statement": "A Resolução nº 027/2010-CEG entra em vigor na data de sua publicação.",
+        "context": "Art. 4º da RESOLUÇÃO nº 027/2010-CEG"
+      }
+    ]
+  },
+  "file_0033.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução Nº 048/2009 regulamenta o processo de realização de exercícios escolares e exame final de segunda chamada para os cursos de Graduação da UFAM.",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "O aluno que não comparecer a quaisquer dos exercícios escolares ou do exame final nas datas fixadas pelos professores poderá solicitar segunda chamada das avaliações, por disciplina.",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "O prazo para solicitar a segunda chamada é de 3 (três) dias úteis contados da realização de cada avaliação.",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "O requerimento para segunda chamada deve ser devidamente assinado pelo aluno, seus familiares ou por seu representante legal, justificando o motivo do não comparecimento.",
+        "context": "Artigo 1º"
+      },
+      {
+        "statement": "Constituem justo motivo para solicitar a segunda chamada: doença de caráter infectocontagiosa, traumatismo, distúrbios agudos e outras condições de saúde, participação em manobras militares, convocação para depoimento judicial ou policial, e falecimento de parentes em linha reta ou colateral até o 2º grau.",
+        "context": "Artigo 1º, §1º"
+      },
+      {
+        "statement": "O não será considerado justo motivo a simples prestação de serviço decorrente de obrigação por vínculo de função pública.",
+        "context": "Artigo 1º, §2º"
+      },
+      {
+        "statement": "O aluno que deixar de anexar documento que comprove o motivo de sua ausência terá o seu pedido de segunda chamada indeferido.",
+        "context": "Artigo 1º, §3º"
+      },
+      {
+        "statement": "O prazo para o coordenador de curso despachar o requerimento de segunda chamada é de 3 (três) dias úteis a partir do recebimento do pedido.",
+        "context": "Artigo 1º, §4º"
+      },
+      {
+        "statement": "Em caso de deferimento da segunda chamada, o coordenador de curso encaminhará ao professor da disciplina para marcar a nova data, que deve ocorrer em até 10 (dez) dias úteis após o recebimento pelo professor.",
+        "context": "Artigo 1º, §5º"
+      },
+      {
+        "statement": "Os exercícios escolares e o exame final de segunda chamada consistem de avaliação a critério do professor da disciplina.",
+        "context": "Artigo 2º"
+      },
+      {
+        "statement": "O exercício escolar e o exame final de segunda chamada terão o mesmo valor e peso da avaliação perdida pelo aluno.",
+        "context": "Artigo 2º, §1º"
+      },
+      {
+        "statement": "O conteúdo do exercício escolar ou do exame final de segunda chamada ficará a critério do professor.",
+        "context": "Artigo 2º, §2º"
+      },
+      {
+        "statement": "Não estão sujeitos à avaliação de segunda chamada os trabalhos práticos e os trabalhos de campo.",
+        "context": "Artigo 3º"
+      },
+      {
+        "statement": "O não comparecimento ao exercício escolar ou ao exame final de segunda chamada não dá direito à solicitação de uma nova avaliação, mantendo-se a nota zero relativa a esse exercício ou exame final.",
+        "context": "Artigo 4º"
+      },
+      {
+        "statement": "A Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.",
+        "context": "Artigo 5º"
+      }
+    ]
+  },
+  "file_0035.pdf": {
+    "facts": [
+      {
+        "statement": "Estabelece que após a correção pelo professor, todos os exercícios escolares e a prova final serão entregues ao discente.",
+        "context": "Artigo 1º, Capítulo I, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Os prazos para entrega dos exercícios escolares são de até 30 dias após sua aplicação e para as provas finais é no dia útil seguinte ao término da data prevista para lançamento das notas.",
+        "context": "§ 1º do Artigo 1º, Capítulo I, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Em nenhuma hipótese o discente realizará a prova final sem ter recebido todos os exercícios escolares e sem o conhecimento da média parcial.",
+        "context": "§ 2º do Artigo 1º, Capítulo I, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "O discente deve formalizar o recebimento dos exercícios e da prova final por meio de assinatura em lista que conterá os nomes e notas dos discentes.",
+        "context": "§ 3º do Artigo 1º, Capítulo I, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Após um ano do registro das notas, todos os exercícios escolares e provas finais que não forem reclamados serão eliminados.",
+        "context": "§ 4º do Artigo 1º, Capítulo I, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Todo discente dos cursos de graduação da UFAM tem o direito de solicitar a revisão de suas avaliações de acordo com os termos da resolução.",
+        "context": "Artigo 3º, Seção I, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Não será permitida a revisão de exercícios escolares e provas finais que tenham sido realizados a lápis.",
+        "context": "Parágrafo único do Artigo 3º, Seção I, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "O pedido de revisão deve ser fundamentado e a fundamentação deve ser escrita ou digitada para cada questão da avaliação a ser revisada.",
+        "context": "§ 2º e § 3º do Artigo 4º, Seção I, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Após a ciência da nota, o discente tem um prazo de 3 dias úteis para solicitar a revisão da avaliação.",
+        "context": "Artigo 6º, Seção II, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "A análise do pedido de revisão deverá ser feita no prazo máximo de 10 dias úteis após a solicitação ser protocolada.",
+        "context": "Artigo 7º, Seção II, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Será indeferido o pedido de revisão que não contenha a fundamentação necessária ou não observe os prazos estabelecidos.",
+        "context": "Artigo 8º, Seção II, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "O recurso aos resultados da revisão deve ser protocolado na Coordenação do respectivo curso.",
+        "context": "Artigo 16, Seção VI, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "A banca analisadora do recurso deve emitir parecer sobre o deferimento ou indeferimento do recurso em até 5 dias úteis.",
+        "context": "Artigo 19, Seção VII, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "Na hipótese de indeferimento do recurso, o processo será arquivado na Coordenação do curso.",
+        "context": "Artigo 21, Seção VIII, Capítulo II, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "O docente não pode negar informações acerca dos critérios e pontuação do discente que prejudiquem o aluno durante os procedimentos da resolução.",
+        "context": "Artigo 25, Capítulo III, das DISPOSIÇÕES FINAIS, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "O descumprimento reiterado das obrigações da resolução poderá levar a sanções, conforme previsto no Regimento Geral da UFAM.",
+        "context": "Artigo 26, Capítulo III, das DISPOSIÇÕES FINAIS, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      },
+      {
+        "statement": "A resolução entra em vigor na data da sua publicação.",
+        "context": "Artigo 28, Capítulo III, das DISPOSIÇÕES FINAIS, da RESOLUÇÃO Nº 031/2015-CEG -C0NSEPE."
+      }
+    ]
+  },
+  "file_0036.pdf": {
+    "facts": [
+      {
+        "statement": "O Regimento Geral disciplina os aspectos de organização e funcionamento comuns aos vários órgãos e serviços da Universidade Federal do Amazonas.",
+        "context": "Art. 1º"
+      },
+      {
+        "statement": "As normas deste Regimento serão complementadas pelos regimentos da Reitoria, das Unidades Acadêmicas e de outros órgãos, conforme suas especificidades.",
+        "context": "Parágrafo único do Art. 1º"
+      },
+      {
+        "statement": "A administração da Universidade dar-se-á em nível superior e nas Unidades Acadêmicas, através dos órgãos deliberativos e executivos competentes.",
+        "context": "Art. 2º"
+      },
+      {
+        "statement": "A Administração Superior da Universidade será exercida pelo Conselho Universitário (CONSUNI), Conselho de Administração (CONSAD), Conselho de Ensino, Pesquisa e Extensão (CONSEPE), e pela Reitoria.",
+        "context": "Art. 3º"
+      },
+      {
+        "statement": "A administração das Unidades Acadêmicas será feita pelo Conselho Departamental como órgão deliberativo e pela Diretoria como órgão executivo.",
+        "context": "Art. 4º"
+      },
+      {
+        "statement": "Os Conselhos Superiores e suas Câmaras Setoriais têm a composição e a competência estabelecidas no Estatuto da Universidade e são assessorados por uma Secretaria Geral.",
+        "context": "Art. 5º"
+      },
+      {
+        "statement": "As Câmaras Setoriais têm composição que inclui o Pró-Reitor da área correspondente como Presidente, bem como representantes do corpo docente, discente e técnico-administrativo.",
+        "context": "Art. 6º"
+      },
+      {
+        "statement": "As Câmaras Setoriais têm competência para aprovar normas sobre organização e gestão administrativa, gestão econômico-financeira, e normas sobre serviços assistenciais a estudantes e servidores.",
+        "context": "Art. 8º"
+      },
+      {
+        "statement": "Os representantes da Comunidade Universitária junto aos Colegiados Superiores serão escolhidos por votação direta e secreta, com permissão de uma reeleição.",
+        "context": "Art. 12"
+      },
+      {
+        "statement": "Somente integrantes da Carreira do Magistério Superior poderão candidatar-se à representação docente nos ColegiadosSuperiores.",
+        "context": "Art. 13"
+      },
+      {
+        "statement": "Os candidatos à representação discente devem ser alunos regulares matriculados em cursos de graduação que tenham integralizado os créditos correspondentes aos dois primeiros períodos.",
+        "context": "Art. 14"
+      },
+      {
+        "statement": "Os Departamentos acadêmicos compreenderão disciplinas afins e serão constituídos por docentes da respectiva Unidade, com representação do corpo discente e técnico-administrativo.",
+        "context": "Art. 20"
+      },
+      {
+        "statement": "Os membros de colegiados terão suas faltas às atividades escolares ou administrativas justificadas quando coincidirem com o horário da reunião do colegiado.",
+        "context": "Art. 25, § 1º"
+      },
+      {
+        "statement": "A verificação do rendimento escolar será feita por disciplina, abrangendo os aspectos de aproveitamento e frequência, ambos eliminatórios por si mesmos.",
+        "context": "Art. 76"
+      },
+      {
+        "statement": "O aluno será considerado reprovado e não obterá crédito se deixar de comparecer a um mínimo de 75% das atividades programadas para cada disciplina.",
+        "context": "Art. 77"
+      },
+      {
+        "statement": "A Universidade poderá conferir diplomas de graduação, pós-graduação stricto sensu, e de cursos sequenciais por campo de saber.",
+        "context": "Art. 81"
+      },
+      {
+        "statement": "O corpo docente da Universidade compreende os integrantes da carreira do magistério superior e demais professores admitidos na forma da lei, incluindo visitantes e substitutos.",
+        "context": "Art. 92"
+      },
+      {
+        "statement": "Os docentes da Universidade estão sujeitos ao regime jurídico instituído pela legislação vigente.",
+        "context": "Art. 120"
+      },
+      {
+        "statement": "Os alunos da Universidade terão direitos e deveres inerentes à sua condição, sujeitos ao regime disciplinar previsto no Regimento Geral.",
+        "context": "Art. 105"
+      }
+    ]
+  },
+  "file_0037.pdf": {
+    "facts": [
+      {
+        "statement": "A Resolução nº 022/2019 altera e dá nova redação à Resolução nº 003/2015 - CONSAD, que normatizou o atendimento aos usuários do Sistema de Bibliotecas da Universidade Federal do Amazonas.",
+        "context": "Introdução da Resolução nº 022/2019."
+      },
+      {
+        "statement": "Os membros da comunidade universitária que integram o corpo docente, discente e técnico-administrativo devem estar devidamente cadastrados para utilizar os serviços das Bibliotecas.",
+        "context": "Capítulo I do Cadastramento."
+      },
+      {
+        "statement": "Os alunos de graduação devem apresentar documento oficial de identificação com foto ou carteira estudantil da UFAM para efetuar o cadastro na biblioteca.",
+        "context": "Art. 2º do Capítulo I do Cadastramento."
+      },
+      {
+        "statement": "Ao início de cada período letivo, o CTIC fará a migração dos cadastros de alunos de graduação matriculados para o sistema utilizado pela Biblioteca.",
+        "context": "Parágrafo 2º do Art. 1º do Capítulo I do Cadastramento."
+      },
+      {
+        "statement": "O acesso ao acervo das bibliotecas é de livre consulta para qualquer tipo de usuário, inclusive para a sociedade em geral.",
+        "context": "Art. 3º do Capítulo II das Normas para Uso do Acervo."
+      },
+      {
+        "statement": "É proibido fumar nas dependências das bibliotecas, conforme a Lei nº 12.546, de 2011.",
+        "context": "Parágrafo 5º do Art. 3º do Capítulo II das Normas para Uso do Acervo."
+      },
+      {
+        "statement": "Os servidores podem emprestar até 10 títulos diferentes por um prazo de 15 dias corridos.",
+        "context": "Art. 7º do Capítulo IV dos Limites e Prazos de Empréstimos, Renovação e Reserva de Materiais Bibliográficos."
+      },
+      {
+        "statement": "Os alunos de pós-graduação podem emprestar até 7 títulos diferentes por um prazo de 15 dias corridos.",
+        "context": "Art. 8º do Capítulo IV dos Limites e Prazos de Empréstimos, Renovação e Reserva de Materiais Bibliográficos."
+      },
+      {
+        "statement": "Em caso de atraso na devolução das obras, o usuário cumprirá 30 dias de suspensão do direito de empréstimo.",
+        "context": "Parágrafo 1º do Art. 16 das Responsabilidades e Sanções."
+      },
+      {
+        "statement": "A não observância dos prazos de devolução implicará na aplicação das penalidades previstas na resolução.",
+        "context": "Art. 6º do Capítulo III da Utilização do Acervo."
+      },
+      {
+        "statement": "O débito no SISTEBIB/UFAM do usuário discente afetará os requerimentos relacionados à matrícula e obtenção de grau.",
+        "context": "Art. 19 das Responsabilidades e Sanções."
+      },
+      {
+        "statement": "Os casos omissos e não previstos nesta Resolução serão resolvidos pelo Conselho Consultivo do SISTEBIB.",
+        "context": "Art. 24 da Resolução."
+      },
+      {
+        "statement": "Esta Resolução entra em vigor na data de sua publicação, revogando a Resolução nº 003/2015.",
+        "context": "Art. 25 da Resolução."
+      }
+    ]
+  },
+  "file_0038.pdf": {
+    "facts": [
+      {
+        "statement": "A Universidade do Amazonas é uma Instituição Federal de Ensino Superior, criada pela Lei nº. 4.069-A, de 12 de junho de 1962.",
+        "context": "Art. 1º."
+      },
+      {
+        "statement": "A Universidade goza de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, cumprindo o princípio de indissociabilidade entre ensino, pesquisa e extensão.",
+        "context": "Art. 2º."
+      },
+      {
+        "statement": "A organização e funcionamento da Universidade são regidos pelo presente Estatuto, pelo Regimento Geral e regimentos das unidades acadêmicas.",
+        "context": "Art. 3º."
+      },
+      {
+        "statement": "A Universidade tem por finalidade cultivar o saber em todos os campos do conhecimento puro e aplicado e promover a investigação científica.",
+        "context": "Art. 4º."
+      },
+      {
+        "statement": "A Universidade é composta por unidades acadêmicas incluindo institutos e faculdades que abrangem diferentes áreas do conhecimento.",
+        "context": "Art. 6º."
+      },
+      {
+        "statement": "A criação de novas unidades acadêmicas ou órgãos suplementares deve ser aprovada pelo Conselho Universitário, observando a legislação vigente.",
+        "context": "Art. 6º, § 2º."
+      },
+      {
+        "statement": "A administração superior da Universidade será exercida por vários conselhos, entre eles o Conselho Universitário e o Conselho de Administração.",
+        "context": "Art. 10."
+      },
+      {
+        "statement": "O Conselho Universitário é o órgão máximo da Universidade e é formado por membros que incluem o Reitor, representantes do corpo docente, discente e da comunidade local.",
+        "context": "Art. 11."
+      },
+      {
+        "statement": "O Reitor é responsável por representar a Universidade, fiscalizar e coordenar as atividades universitárias, além de administrar suas finanças.",
+        "context": "Art. 19."
+      },
+      {
+        "statement": "A Universidade oferece modalidades de cursos, incluindo graduação, pós-graduação, especialização e extensão, respeitando requisitos estabelecidos.",
+        "context": "Art. 35."
+      },
+      {
+        "statement": "Os alunos deverão ter frequência obrigatória, exceto nos programas de educação a distância.",
+        "context": "Art. 44."
+      },
+      {
+        "statement": "A Universidade poderá conferir diplomas e certificados após a conclusão dos cursos, conforme requisitos legais estabelecidos.",
+        "context": "Art. 62."
+      },
+      {
+        "statement": "A gestão do patrimônio da Universidade deve seguir o que está descrito neste Estatuto e no Regimento Geral, respeitando a legislação federal.",
+        "context": "Art. 66."
+      },
+      {
+        "statement": "O orçamento anual da Universidade deve conter recursos necessários para cobrir despesas e pode ser alterado conforme instruções legais.",
+        "context": "Art. 67."
+      },
+      {
+        "statement": "O regime disciplinar dos membros da Comunidade Universitária será estabelecido no Regimento Geral, conforme a legislação pertinente.",
+        "context": "Art. 56."
+      },
+      {
+        "statement": "Os mecanismos de ingresso e as funções dos servidores técnicos-administrativos são regulados por normas estabelecidas nos Conselhos competentes.",
+        "context": "Art. 61."
+      }
+    ]
+  },
+  "file_0041.pdf": {
+    "facts": [
+      {
+        "statement": "A resolução 037/2011 adota procedimentos de padronização para mensuração do tempo máximo dos cursos de graduação presenciais.",
+        "context": "Introdução da Resolução"
+      },
+      {
+        "statement": "O tempo máximo de integração dos cursos de graduação da UFAM será redimensionado conforme orientações contidas na Resolução.",
+        "context": "Artigo 2º"
+      },
+      {
+        "statement": "A integração do tempo máximo de duração dos cursos de graduação consiste na soma do tempo mínimo de duração previsto no Projeto Político Pedagógico com 50% desse mesmo tempo.",
+        "context": "Artigo 3º"
+      },
+      {
+        "statement": "Em casos onde os 50% de tempo máximo sejam atingidos antes do término do período letivo, o aluno terá garantido o tempo máximo para integrar o curso até o final do período letivo corrente.",
+        "context": "Parágrafo Único do Artigo 3º"
+      },
+      {
+        "statement": "Os tempos mínimos e as cargas horárias dos cursos de graduação não serão alterados para efeitos desta Resolução, permanecendo os já previstos nos Projetos Pedagógicos dos cursos.",
+        "context": "Artigo 4º"
+      },
+      {
+        "statement": "O Departamento de Apoio ao Ensino (DAE/PROEG) e as Coordenações dos cursos devem promover ajustes dos tempos máximos dos cursos de graduação conforme os comandos da presente Resolução.",
+        "context": "Artigo 5º"
+      },
+      {
+        "statement": "A Resolução 037/2011 entra em vigor na data de sua publicação, revogando disposições em contrário.",
+        "context": "Artigo 6º"
+      }
+    ]
+  },
+  "file_0042.pdf": {
+    "facts": [
+      {
+        "statement": "A Portaria Nº 48, de 16 de julho de 2019, estabelece procedimentos e critérios a serem aplicados nos processos administrativos que apuram denúncias de supostas fraudes no uso de cotas destinadas a pretos, pardos e indígenas.",
+        "context": "Artigo 1º, Seção I - Disposições Gerais"
+      },
+      {
+        "statement": "O Pró-Reitor de Ensino de Graduação deve solicitar informações do Departamento de Registro Acadêmico (DRA/PROEG) quando formalmente notificado sobre denúncias.",
+        "context": "Artigo 2º, Seção I - Disposições Gerais"
+      },
+      {
+        "statement": "Se confirmada a denúncia contra um discente matriculado em vaga reservada, o Pró-Reitor deverá submeter o processo administrativo ao procedimento de heteroidentificação.",
+        "context": "Artigo 3º, Seção I - Disposições Gerais"
+      },
+      {
+        "statement": "O Pró-Reitor é responsável por convocar o discente denunciado para o procedimento de heteroidentificação.",
+        "context": "Artigo 4º, Seção II - Do Procedimento para Fins de Heteroidentificação"
+      },
+      {
+        "statement": "A heteroidentificação será realizada por uma Comissão Regular de Verificação de Autodeclaração Étnico-Racial.",
+        "context": "Artigo 5º, Seção II - Do Procedimento para Fins de Heteroidentificação"
+      },
+      {
+        "statement": "A convocação do discente para o procedimento de heteroidentificação pode ser feita por telefone, e-mail ou correio.",
+        "context": "Artigo 7º, Seção II - Do Procedimento para Fins de Heteroidentificação"
+      },
+      {
+        "statement": "Caso o discente falte à convocação para o procedimento de heteroidentificação sem apresentar justificativa em até um dia, sua matrícula será cancelada.",
+        "context": "Artigo 8º, Seção II - Do Procedimento para Fins de Heteroidentificação"
+      },
+      {
+        "statement": "O fenômeno é o único critério para homologação do termo de autodeclaração do discente, sendo considerado o conjunto de características físicas, predominantemente a cor da pele, a textura do cabelo e os aspectos faciais.",
+        "context": "Artigo 9º, Seção II - Do Procedimento para Fins de Heteroidentificação"
+      },
+      {
+        "statement": "Para homologação do termo do discente autodeclarado indígena, será considerado o Registro Administrativo de Nascimento de Indígena (RANI) e o fenômeno indígena.",
+        "context": "Artigo 10, Seção II - Do Procedimento para Fins de Heteroidentificação"
+      },
+      {
+        "statement": "Negar a homologação da autodeclaração étnico-racial resulta no cancelamento do registro acadêmico do discente e na anulação de todas as disciplinas cursadas até então.",
+        "context": "Artigo 20, Seção IV - Disposições Finais"
+      },
+      {
+        "statement": "Se a autodeclaração étnico-racial for homologada, o discente pode usar o termo homologado para ingresso em qualquer curso de graduação da UFAM, sem necessidade de nova submissão à comissão.",
+        "context": "Artigo 21, Seção IV - Disposições Finais"
+      },
+      {
+        "statement": "É vedado ao discente cujo termo de autodeclaração não for homologado matricular-se novamente em vagas reservadas para candidatos pretos, pardos e indígenas, independentemente do curso.",
+        "context": "Artigo 22, Seção IV - Disposições Finais"
+      }
+    ]
+  },
+  "file_0043.pdf": {
+    "facts": [
+      {
+        "statement": "O trancamento de matrícula na Universidade Federal do Amazonas (UFAM) é regulamentado pela Resolução 011/2007 do Conselho de Ensino, Pesquisa e Extensão (CONSEPE).",
+        "context": "Resumo da Resolução 011/2007."
+      },
+      {
+        "statement": "O trancamento de matrícula pode ser total, onde o aluno não se matricula em nenhuma disciplina por até 2 semestres letivos, ou parcial, onde o aluno formaliza o propósito de não cursar uma ou mais disciplinas.",
+        "context": "Artigo 1º da Resolução 011/2007."
+      },
+      {
+        "statement": "O trancamento total não poderá exceder 2 semestres letivos, consecutivos ou não.",
+        "context": "Artigo 2º da Resolução 011/2007."
+      },
+      {
+        "statement": "Para o trancamento de disciplinas, o limite máximo é correspondente ao número de disciplinas do primeiro período do respectivo curso.",
+        "context": "Artigo 2º, Inciso II da Resolução 011/2007."
+      },
+      {
+        "statement": "O aluno poderá ser beneficiado com apenas um ano de trancamento de matrícula, seja total ou equivalente em disciplinas.",
+        "context": "Artigo 2º, § 1º da Resolução 011/2007."
+      },
+      {
+        "statement": "O período correspondente ao trancamento total de matrícula não será computado no prazo de integralização do curso.",
+        "context": "Artigo 3º da Resolução 011/2007."
+      },
+      {
+        "statement": "O trancamento de matrícula não afetará o cálculo do coeficiente de rendimento do aluno.",
+        "context": "Artigo 4º da Resolução 011/2007."
+      },
+      {
+        "statement": "Não será concedido trancamento de matrícula em determinadas condições, incluindo alunos que já foram beneficiados com trancamento total por dois semestres letivos seguidos.",
+        "context": "Artigo 5º da Resolução 011/2007."
+      },
+      {
+        "statement": "O pedido de trancamento total deverá ser feito antes ou coincidir com o período de solicitação de matrícula em disciplinas, conforme estabelecido no Calendário Acadêmico.",
+        "context": "Artigo 6º da Resolução 011/2007."
+      },
+      {
+        "statement": "Os procedimentos operacionais para trancamento de matrícula estarão previstos em Instrução Normativa a ser editada pelo Pró-Reitor de Ensino de Graduação.",
+        "context": "Artigo 8º da Resolução 011/2007."
+      },
+      {
+        "statement": "O período para trancamento será fixado semestralmente no Calendário Acadêmico aprovado pelo Conselho de Ensino, Pesquisa e Extensão.",
+        "context": "Artigo 7º da Resolução 011/2007."
+      },
+      {
+        "statement": "Os casos omissos da regulamentação do trancamento de matrícula serão resolvidos no âmbito da Câmara de Ensino de Graduação.",
+        "context": "Artigo 9º da Resolução 011/2007."
+      },
+      {
+        "statement": "A Resolução 011/2007 entrou em vigor na data de sua assinatura e revogou disposições em contrário.",
+        "context": "Artigo 10 da Resolução 011/2007."
+      }
+    ]
+  }
+}
