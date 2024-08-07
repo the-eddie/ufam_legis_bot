@@ -18,5 +18,10 @@ FILE_EXTENSIONS = ["pdf"]
 TIMEOUT = 30
 MAX_RETRIES = 3
 
+# Configurações do Chroma DB
+CHROMA_PERSIST_DIRECTORY = os.path.join(BASE_DIR, "data/db")
+CHROMA_COLLECTION_NAME = "documentos_segmentados"
+SENTENCE_TRANSFORMER_MODEL = "distiluse-base-multilingual-cased-v1"
+
 # Formato de log
-LOG_FORMAT = '%(asctime)s - %(levelname)s - %(filename)s:%(funcName)s:%(lineno)d - %(message)s'
+LOG_FORMAT = '%(asctime)s [%(levelname)s] [%(name)s] %(module)s::%(funcName)s(%(lineno)d) -- %(message)s'
