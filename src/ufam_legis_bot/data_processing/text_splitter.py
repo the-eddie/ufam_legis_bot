@@ -1,3 +1,4 @@
+from ufam_legis_bot.config import *
 import json
 import os
 from typing import List, Dict
@@ -9,15 +10,20 @@ from chromadb.utils import embedding_functions
 import logging
 from tqdm import tqdm
 
-from ufam_legis_bot.config import *
+import sys
+
+# Adiciona o diretório pai ao PYTHONPATH
+sys.path.append("/Users/edisson/ufam/src/nlp_ufam/ufam_legis_bot/src")
 
 # Configuração do logging
 logging.getLogger('chromadb').setLevel(logging.WARNING)
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
 logger = logging.getLogger(__name__)
 
-
 class TextSplitter:
+    """
+    Divide documentos em chunks, armazenando-os no ChromaDB juntamente com embeddings para semantic search,
+    """
     def __init__(self):
         self.nlp = Portuguese()
         self.nlp.add_pipe("sentencizer")
@@ -27,7 +33,8 @@ class TextSplitter:
             anonymized_telemetry=False
         )
 
-        self.chroma_client = PersistentClient(path=CHROMA_PERSIST_DIRECTORY, settings=chroma_settings)
+        self.chroma_client = PersistentClient(
+            path=CHROMA_PERSIST_DIRECTORY, settings=chroma_settings)
 
         # Reinicializa o database, apagando completamente o conteúdo existente.
         self.chroma_client.reset()
@@ -41,18 +48,39 @@ class TextSplitter:
             embedding_function=self.sentence_embedder
         )
 
-    def rule_based_splitter(self, text: str) -> List[str]:
+    def rule_based_splitter(self, text: str, target_size: int = 1000, overlap: int = 1) -> List[str]:
         """
-        Divide o texto em sentenças usando o sentencizer do spaCy.
+        Divide o texto em chunks baseados em sentenças, com tamanho alvo e sobreposição.
 
         Args:
             text: O texto a ser dividido.
+            target_size: O tamanho alvo para cada chunk (em caracteres).
+            overlap: O número de sentenças de sobreposição entre chunks.
 
         Returns:
-            Uma lista de sentenças.
+            Uma lista de chunks de texto.
         """
         doc = self.nlp(text)
-        return [sent.text.strip() for sent in doc.sents]
+        sentences = [sent.text.strip() for sent in doc.sents]
+        chunks = []
+        current_chunk = []
+        current_size = 0
+
+        for i, sentence in enumerate(sentences):
+            current_chunk.append(sentence)
+            current_size += len(sentence)
+
+            if current_size >= target_size or i == len(sentences) - 1:
+                chunks.append(" ".join(current_chunk))
+                current_chunk = current_chunk[-overlap:]
+                current_size = sum(len(s) for s in current_chunk)
+
+        # Tratamento do caso de borda para o último chunk
+        if len(chunks) > 1 and len(chunks[-1]) < target_size / 2:
+            last_chunk = chunks.pop()
+            chunks[-1] += " " + last_chunk
+
+        return chunks
 
     def process_file(self, file_path: str) -> Dict:
         """
@@ -71,32 +99,31 @@ class TextSplitter:
         text = document["text_content"]
         document_metadata = document["metadata"]
 
-        sentences = self.rule_based_splitter(text)
+        chunks = self.rule_based_splitter(text)
 
-        chunks = []
-        for i, sentence in enumerate(sentences):
-            chunk = {
+        processed_chunks = []
+        for i, chunk in enumerate(chunks):
+            processed_chunk = {
                 "id": f"{document['file_name']}_{i}",
-                "text": sentence,
+                "text": chunk,
                 "metadata": {
                     "document_title": ', '.join(document_metadata["anchor_texts"]) if isinstance(document_metadata["anchor_texts"], list) else str(document_metadata["anchor_texts"]),
                     "document_date": document_metadata["processing_date"],
                     "chunk_index": i,
-                    "total_chunks": len(sentences),
+                    "total_chunks": len(chunks),
                     "file_name": document['file_name']
                 }
             }
-            chunks.append(chunk)
+            processed_chunks.append(processed_chunk)
 
-        logger.info(f"Arquivo processado: {
-                    file_path}. Total de chunks: {len(chunks)}")
+        logger.info(f"Arquivo processado: {file_path}. Total de chunks: {len(processed_chunks)}")
         return {
             "document": {
                 "anchor_texts": ', '.join(document["metadata"]["anchor_texts"]) if isinstance(document["metadata"]["anchor_texts"], list) else str(document["metadata"]["anchor_texts"]),
                 "date": document["metadata"]["processing_date"],
                 "file_name": document["file_name"]
             },
-            "chunks": chunks
+            "chunks": processed_chunks
         }
 
     def process_folder(self, folder_path: str):
@@ -109,15 +136,19 @@ class TextSplitter:
         logger.info(f"Iniciando processamento da pasta: {folder_path}")
         files = sorted([f for f in os.listdir(folder_path) if f.endswith(".json")])
         total_files = len(files)
+        all_documents = []
 
         for index, filename in enumerate(files, start=1):
             file_path = os.path.join(folder_path, filename)
             logger.info(f"Processando arquivo {index}/{total_files}: {filename}")
             processed_data = self.process_file(file_path)
+            all_documents.append(processed_data)
 
             # Adicionar chunks ao Chroma
             for chunk in processed_data["chunks"]:
-                metadata = {k: ', '.join(v) if isinstance(v, list) else v for k, v in chunk["metadata"].items()}
+                metadata = {
+                    k: ', '.join(v) if isinstance(v, list) else v for k, v in chunk["metadata"].items()
+                }
                 self.collection.add(
                     ids=[chunk["id"]],
                     documents=[chunk["text"]],
@@ -126,6 +157,11 @@ class TextSplitter:
 
         logger.info("Processamento concluído. Dados salvos no Chroma DB.")
 
+        # Salvar todos os documentos processados em um único arquivo JSON
+        output_file = os.path.join(CHROMA_PERSIST_DIRECTORY, "documents_chunks.json")
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(all_documents, f, ensure_ascii=False, indent=2)
+        logger.info(f"Todos os documentos processados foram salvos em: {output_file}")
 
 def main():
     """
@@ -135,10 +171,8 @@ def main():
         splitter = TextSplitter()
         splitter.process_folder(PRE_PROCESSING_FOLDER)
     except Exception as e:
-        logger.error(
-            f"Ocorreu um erro durante o processamento de texto: {str(e)}")
+        logger.error(f"Ocorreu um erro durante o processamento de texto: {str(e)}")
         raise
-
 
 if __name__ == "__main__":
     main()
